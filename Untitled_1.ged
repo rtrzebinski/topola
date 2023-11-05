@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.1.5
 2 NAME Gramps
-1 DATE 4 NOV 2023
-2 TIME 23:10:50
+1 DATE 5 NOV 2023
+2 TIME 09:57:07
 1 SUBM @SUBM@
 1 FILE /Users/robert/Desktop/Untitled_1.ged
 1 COPR Copyright (c) 2023 .
@@ -688,12 +688,14 @@
 2 GIVN Weronika
 2 SURN Sulak
 1 SEX F
+1 BIRT
+2 DATE 30 SEP 1934
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0030@
 1 CHAN
-2 DATE 7 MAR 2023
-3 TIME 15:30:14
+2 DATE 5 NOV 2023
+3 TIME 08:39:06
 0 @I0045@ INDI
 1 NAME Kazimiera /Noga/
 2 GIVN Kazimiera
@@ -2346,15 +2348,16 @@
 2 DATE 8 MAR 2023
 3 TIME 19:56:23
 0 @I0185@ INDI
-1 NAME Edyta /Muchowicz/
+1 NAME Edyta /Rogiewicz/
 2 GIVN Edyta
-2 SURN Muchowicz
+2 SURN Rogiewicz
 1 SEX F
 1 FAMC @F0064@
 2 PEDI birth
+1 FAMS @F0095@
 1 CHAN
-2 DATE 8 MAR 2023
-3 TIME 19:56:57
+2 DATE 5 NOV 2023
+3 TIME 08:52:54
 0 @I0186@ INDI
 1 NAME Ryszard /Pińkowski/
 2 GIVN Ryszard
@@ -3427,6 +3430,16 @@
 1 CHAN
 2 DATE 4 NOV 2023
 3 TIME 20:26:48
+0 @I0281@ INDI
+1 NAME Miłosz /Rogiewicz/
+2 GIVN Miłosz
+2 SURN Rogiewicz
+1 SEX M
+1 FAMC @F0095@
+2 PEDI birth
+1 CHAN
+2 DATE 5 NOV 2023
+3 TIME 08:52:54
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -4192,6 +4205,12 @@
 1 CHAN
 2 DATE 4 NOV 2023
 3 TIME 20:27:07
+0 @F0095@ FAM
+1 WIFE @I0185@
+1 CHIL @I0281@
+1 CHAN
+2 DATE 5 NOV 2023
+3 TIME 08:52:54
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
