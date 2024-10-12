@@ -1,12 +1,12 @@
 0 HEAD
 1 SOUR Gramps
-2 VERS 5.1.5
+2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 2 DEC 2023
-2 TIME 17:40:15
+1 DATE 12 OCT 2024
+2 TIME 13:27:50
 1 SUBM @SUBM@
-1 FILE /Users/robert/Desktop/Untitled_1.ged
-1 COPR Copyright (c) 2023 .
+1 FILE /Users/robert/projects/topola/Untitled_1.ged
+1 COPR Copyright (c) 2024 .
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -16,6 +16,7 @@
 1 NAME
 0 @I0000@ INDI
 1 NAME Robert /Trzebiński/
+2 TYPE birth
 2 GIVN Robert
 2 SURN Trzebiński
 1 SEX M
@@ -32,6 +33,7 @@
 3 TIME 07:17:34
 0 @I0001@ INDI
 1 NAME Hanna /Trzebińska/
+2 TYPE birth
 2 GIVN Hanna
 2 SURN Trzebińska
 1 SEX F
@@ -51,6 +53,7 @@
 3 TIME 19:25:59
 0 @I0002@ INDI
 1 NAME Krzysztof /Trzebiński/
+2 TYPE birth
 2 GIVN Krzysztof
 2 SURN Trzebiński
 1 SEX M
@@ -69,6 +72,7 @@
 3 TIME 05:37:40
 0 @I0003@ INDI
 1 NAME Bernadeta /Trzebińska/
+2 TYPE birth
 2 GIVN Bernadeta
 2 SURN Trzebińska
 1 SEX F
@@ -86,6 +90,7 @@
 3 TIME 15:30:14
 0 @I0004@ INDI
 1 NAME Władysław /Trzebiński/
+2 TYPE birth
 2 GIVN Władysław
 2 SURN Trzebiński
 1 SEX M
@@ -102,6 +107,7 @@
 3 TIME 17:48:32
 0 @I0005@ INDI
 1 NAME Antoni /Trzebiński/
+2 TYPE birth
 2 GIVN Antoni
 2 SURN Trzebiński
 1 SEX M
@@ -122,14 +128,13 @@
 3 TIME 17:21:05
 0 @I0006@ INDI
 1 NAME Kazimiera /Trzebińska/
+2 TYPE birth
 2 GIVN Kazimiera
 2 SURN Trzebińska
 1 SEX F
 1 BIRT
 2 DATE 23 FEB 1914
 2 PLAC Marianki
-2 ADDR
-3 CITY Marianki
 1 DEAT
 2 DATE 5 MAY 2011
 1 FAMS @F0003@
@@ -138,6 +143,7 @@
 3 TIME 13:56:50
 0 @I0007@ INDI
 1 NAME Karol /Staniszewski/
+2 TYPE birth
 2 GIVN Karol
 2 SURN Staniszewski
 1 SEX M
@@ -154,6 +160,7 @@
 3 TIME 13:33:03
 0 @I0008@ INDI
 1 NAME Agnieszka /Staniszewska/
+2 TYPE birth
 2 GIVN Agnieszka
 2 SURN Staniszewska
 1 SEX F
@@ -170,6 +177,7 @@
 3 TIME 13:43:40
 0 @I0009@ INDI
 1 NAME Natalia /Trzebińska/
+2 TYPE birth
 2 GIVN Natalia
 2 SURN Trzebińska
 1 SEX F
@@ -186,6 +194,7 @@
 3 TIME 07:17:34
 0 @I0010@ INDI
 1 NAME Roman /Trzebiński/
+2 TYPE birth
 2 GIVN Roman
 2 SURN Trzebiński
 1 SEX M
@@ -200,6 +209,7 @@
 3 TIME 05:37:40
 0 @I0011@ INDI
 1 NAME Dorota /Trzebińska/
+2 TYPE birth
 2 GIVN Dorota
 2 SURN Trzebińska
 1 SEX F
@@ -214,6 +224,7 @@
 3 TIME 05:37:40
 0 @I0012@ INDI
 1 NAME Mario /Cardinali/
+2 TYPE birth
 2 GIVN Mario
 2 SURN Cardinali
 1 SEX M
@@ -229,6 +240,7 @@
 3 TIME 19:04:32
 0 @I0013@ INDI
 1 NAME Mario /Cardinali/
+2 TYPE birth
 2 GIVN Mario
 2 SURN Cardinali
 1 SEX M
@@ -245,6 +257,7 @@
 3 TIME 08:04:20
 0 @I0014@ INDI
 1 NAME Małgorzata /Trzebińska/
+2 TYPE birth
 2 GIVN Małgorzata
 2 SURN Trzebińska
 1 SEX F
@@ -260,6 +273,7 @@
 3 TIME 19:03:50
 0 @I0015@ INDI
 1 NAME Norbert /Trzebiński/
+2 TYPE birth
 2 GIVN Norbert
 2 SURN Trzebiński
 1 SEX M
@@ -276,6 +290,7 @@
 3 TIME 15:57:45
 0 @I0016@ INDI
 1 NAME Anna /Trzebińska/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Trzebińska
 1 SEX F
@@ -292,6 +307,7 @@
 3 TIME 15:57:45
 0 @I0017@ INDI
 1 NAME Paulina /Adamska/
+2 TYPE birth
 2 GIVN Paulina
 2 SURN Adamska
 1 SEX F
@@ -307,6 +323,7 @@
 3 TIME 05:32:17
 0 @I0018@ INDI
 1 NAME Aleksandra /Jaroszewicz/
+2 TYPE birth
 2 GIVN Aleksandra
 2 SURN Jaroszewicz
 1 SEX F
@@ -323,6 +340,7 @@
 3 TIME 14:47:19
 0 @I0019@ INDI
 1 NAME Nika /Adamska/
+2 TYPE birth
 2 GIVN Nika
 2 SURN Adamska
 1 SEX F
@@ -339,6 +357,7 @@
 3 TIME 19:52:57
 0 @I0020@ INDI
 1 NAME Stanisław /Noskiewicz/
+2 TYPE birth
 2 GIVN Stanisław
 2 SURN Noskiewicz
 1 SEX M
@@ -358,6 +377,7 @@
 3 TIME 16:35:28
 0 @I0021@ INDI
 1 NAME Jadwiga /Puchalska/
+2 TYPE birth
 2 GIVN Jadwiga
 2 SURN Puchalska
 1 SEX F
@@ -378,6 +398,7 @@
 3 TIME 18:17:50
 0 @I0022@ INDI
 1 NAME Florentyna /Łagutin/
+2 TYPE birth
 2 GIVN Florentyna
 2 SURN Łagutin
 1 SEX F
@@ -398,6 +419,7 @@
 3 TIME 16:27:03
 0 @I0023@ INDI
 1 NAME Piotr /Łagutin/
+2 TYPE birth
 2 GIVN Piotr
 2 SURN Łagutin
 1 SEX M
@@ -413,6 +435,7 @@
 3 TIME 15:26:04
 0 @I0024@ INDI
 1 NAME Barbara /Polakiewicz/
+2 TYPE birth
 2 GIVN Barbara
 2 SURN Polakiewicz
 1 SEX F
@@ -428,6 +451,7 @@
 3 TIME 14:34:22
 0 @I0025@ INDI
 1 NAME Kacper /Jaroszewicz/
+2 TYPE birth
 2 GIVN Kacper
 2 SURN Jaroszewicz
 1 SEX M
@@ -441,6 +465,7 @@
 3 TIME 14:47:19
 0 @I0026@ INDI
 1 NAME Jan /Staniszewski/
+2 TYPE birth
 2 GIVN Jan
 2 SURN Staniszewski
 1 SEX M
@@ -454,6 +479,7 @@
 3 TIME 12:05:31
 0 @I0027@ INDI
 1 NAME Stanisław /Polakiewicz/
+2 TYPE birth
 2 GIVN Stanisław
 2 SURN Polakiewicz
 1 SEX M
@@ -463,6 +489,7 @@
 3 TIME 18:14:45
 0 @I0028@ INDI
 1 NAME Elżbieta /Jaroszewicz/
+2 TYPE birth
 2 GIVN Elżbieta
 2 SURN Jaroszewicz
 1 SEX F
@@ -480,6 +507,7 @@
 3 TIME 14:36:42
 0 @I0029@ INDI
 1 NAME Jan /Jaroszewicz/
+2 TYPE birth
 2 GIVN Jan
 2 SURN Jaroszewicz
 1 SEX M
@@ -492,6 +520,7 @@
 3 TIME 14:37:00
 0 @I0030@ INDI
 1 NAME Marcin /Jaroszewicz/
+2 TYPE birth
 2 GIVN Marcin
 2 SURN Jaroszewicz
 1 SEX M
@@ -506,6 +535,7 @@
 3 TIME 14:54:18
 0 @I0031@ INDI
 1 NAME Krzysztof /Jaroszewicz/
+2 TYPE birth
 2 GIVN Krzysztof
 2 SURN Jaroszewicz
 1 SEX M
@@ -519,6 +549,7 @@
 3 TIME 14:54:18
 0 @I0032@ INDI
 1 NAME Tomasz /Jaroszewicz/
+2 TYPE birth
 2 GIVN Tomasz
 2 SURN Jaroszewicz
 1 SEX M
@@ -533,6 +564,7 @@
 3 TIME 14:54:18
 0 @I0033@ INDI
 1 NAME Celina /Noga/
+2 TYPE birth
 2 GIVN Celina
 2 SURN Noga
 1 SEX F
@@ -545,6 +577,7 @@
 3 TIME 20:24:02
 0 @I0034@ INDI
 1 NAME Natalia /Jaroszewicz/
+2 TYPE birth
 2 GIVN Natalia
 2 SURN Jaroszewicz
 1 SEX F
@@ -559,6 +592,7 @@
 3 TIME 14:49:21
 0 @I0035@ INDI
 1 NAME Genowefa /Łagutin/
+2 TYPE birth
 2 GIVN Genowefa
 2 SURN Łagutin
 1 SEX F
@@ -567,6 +601,7 @@
 3 TIME 15:26:04
 0 @I0036@ INDI
 1 NAME Wojciech /Staniszewski/
+2 TYPE birth
 2 GIVN Wojciech
 2 SURN Staniszewski
 1 SEX M
@@ -581,6 +616,7 @@
 3 TIME 14:23:43
 0 @I0037@ INDI
 1 NAME Andrzej /Staniszewski/
+2 TYPE birth
 2 GIVN Andrzej
 2 SURN Staniszewski
 2 NICK Andrew
@@ -591,8 +627,6 @@
 1 DEAT
 2 DATE 1961
 2 PLAC USA
-2 ADDR
-3 CTRY USA
 1 FAMC @F0010@
 2 PEDI birth
 1 FAMS @F0024@
@@ -601,6 +635,7 @@
 3 TIME 12:02:47
 0 @I0038@ INDI
 1 NAME Maria (Mary) /Żurawska/
+2 TYPE birth
 2 GIVN Maria (Mary)
 2 SURN Żurawska
 1 SEX F
@@ -612,6 +647,7 @@
 3 TIME 14:19:53
 0 @I0039@ INDI
 1 NAME Eugeniusz /Łagutin/
+2 TYPE birth
 2 GIVN Eugeniusz
 2 SURN Łagutin
 1 SEX M
@@ -629,6 +665,7 @@
 3 TIME 16:42:40
 0 @I0040@ INDI
 1 NAME Maria /Łagutin/
+2 TYPE birth
 2 GIVN Maria
 2 SURN Łagutin
 1 SEX F
@@ -638,6 +675,7 @@
 3 TIME 18:23:14
 0 @I0041@ INDI
 1 NAME Zbigniew /Polakiewicz/
+2 TYPE birth
 2 GIVN Zbigniew
 2 SURN Polakiewicz
 1 SEX M
@@ -654,6 +692,7 @@
 3 TIME 14:58:24
 0 @I0042@ INDI
 1 NAME Andrzej /Staniszewski/
+2 TYPE birth
 2 GIVN Andrzej
 2 SURN Staniszewski
 1 SEX M
@@ -670,6 +709,7 @@
 3 TIME 13:48:57
 0 @I0043@ INDI
 1 NAME Stefania /Staniszewska/
+2 TYPE birth
 2 GIVN Stefania
 2 SURN Staniszewska
 1 SEX F
@@ -685,6 +725,7 @@
 3 TIME 17:07:40
 0 @I0044@ INDI
 1 NAME Weronika /Sulak/
+2 TYPE birth
 2 GIVN Weronika
 2 SURN Sulak
 1 SEX F
@@ -699,6 +740,7 @@
 3 TIME 12:33:54
 0 @I0045@ INDI
 1 NAME Kazimiera /Noga/
+2 TYPE birth
 2 GIVN Kazimiera
 2 SURN Noga
 1 SEX F
@@ -713,6 +755,7 @@
 3 TIME 12:56:59
 0 @I0046@ INDI
 1 NAME Andrzej /Staniszewski/
+2 TYPE birth
 2 GIVN Andrzej
 2 SURN Staniszewski
 1 SEX M
@@ -727,6 +770,7 @@
 3 TIME 13:49:12
 0 @I0047@ INDI
 1 NAME Stanisław /Staniszewski/
+2 TYPE birth
 2 GIVN Stanisław
 2 SURN Staniszewski
 1 SEX M
@@ -741,6 +785,7 @@
 3 TIME 11:30:30
 0 @I0048@ INDI
 1 NAME Edward /Staniszewski/
+2 TYPE birth
 2 GIVN Edward
 2 SURN Staniszewski
 1 SEX M
@@ -756,6 +801,7 @@
 3 TIME 09:24:32
 0 @I0049@ INDI
 1 NAME Franciszka /Murawska/
+2 TYPE birth
 2 GIVN Franciszka
 2 SURN Murawska
 1 SEX F
@@ -770,6 +816,7 @@
 3 TIME 15:30:14
 0 @I0050@ INDI
 1 NAME Ryszard /Noga/
+2 TYPE birth
 2 GIVN Ryszard
 2 SURN Noga
 1 SEX M
@@ -782,6 +829,7 @@
 3 TIME 20:29:31
 0 @I0051@ INDI
 1 NAME Elżbieta /Biernacka/
+2 TYPE birth
 2 GIVN Elżbieta
 2 SURN Biernacka
 1 SEX F
@@ -795,6 +843,7 @@
 3 TIME 09:33:10
 0 @I0052@ INDI
 1 NAME Zbigniew /Biernacki/
+2 TYPE birth
 2 GIVN Zbigniew
 2 SURN Biernacki
 1 SEX M
@@ -806,6 +855,7 @@
 3 TIME 09:33:23
 0 @I0053@ INDI
 1 NAME Małgorzata /Rusinowicz/
+2 TYPE birth
 2 GIVN Małgorzata
 2 SURN Rusinowicz
 1 SEX F
@@ -820,6 +870,7 @@
 3 TIME 07:40:55
 0 @I0054@ INDI
 1 NAME Agata /Biernacka/
+2 TYPE birth
 2 GIVN Agata
 2 SURN Biernacka
 1 SEX F
@@ -833,6 +884,7 @@
 3 TIME 07:44:03
 0 @I0055@ INDI
 1 NAME Stefan /Trzebiński/
+2 TYPE birth
 2 GIVN Stefan
 2 SURN Trzebiński
 1 SEX M
@@ -847,6 +899,7 @@
 3 TIME 16:56:09
 0 @I0056@ INDI
 1 NAME Henryk /Trzebiński/
+2 TYPE birth
 2 GIVN Henryk
 2 SURN Trzebiński
 1 SEX M
@@ -855,6 +908,7 @@
 3 TIME 17:48:32
 0 @I0057@ INDI
 1 NAME Ryszard /Trzebiński/
+2 TYPE birth
 2 GIVN Ryszard
 2 SURN Trzebiński
 1 SEX M
@@ -863,6 +917,7 @@
 3 TIME 19:44:28
 0 @I0058@ INDI
 1 NAME Violetta /Trzebińska/
+2 TYPE birth
 2 GIVN Violetta
 2 SURN Trzebińska
 1 SEX F
@@ -874,6 +929,7 @@
 3 TIME 17:57:33
 0 @I0059@ INDI
 1 NAME Bogumił /Trzebiński/
+2 TYPE birth
 2 GIVN Bogumił
 2 SURN Trzebiński
 1 SEX M
@@ -888,6 +944,7 @@
 3 TIME 19:50:44
 0 @I0060@ INDI
 1 NAME Anna /Jaroszewicz/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Jaroszewicz
 1 SEX F
@@ -900,6 +957,7 @@
 3 TIME 14:47:19
 0 @I0061@ INDI
 1 NAME Zbigniew /Noga/
+2 TYPE birth
 2 GIVN Zbigniew
 2 SURN Noga
 1 SEX M
@@ -917,6 +975,7 @@
 3 TIME 20:23:36
 0 @I0062@ INDI
 1 NAME Leszek /Noga/
+2 TYPE birth
 2 GIVN Leszek
 2 SURN Noga
 1 SEX M
@@ -928,6 +987,7 @@
 3 TIME 07:24:50
 0 @I0063@ INDI
 1 NAME Anna /Kurek/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Kurek
 1 SEX F
@@ -945,6 +1005,7 @@
 3 TIME 16:43:11
 0 @I0064@ INDI
 1 NAME Joanna /Jarzębska/
+2 TYPE birth
 2 GIVN Joanna
 2 SURN Jarzębska
 1 SEX F
@@ -956,6 +1017,7 @@
 3 TIME 07:29:27
 0 @I0065@ INDI
 1 NAME Piotr /Noga/
+2 TYPE birth
 2 GIVN Piotr
 2 SURN Noga
 1 SEX M
@@ -967,6 +1029,7 @@
 3 TIME 11:05:56
 0 @I0066@ INDI
 1 NAME Nadia /Jaroszewicz/
+2 TYPE birth
 2 GIVN Nadia
 2 SURN Jaroszewicz
 1 SEX F
@@ -980,6 +1043,7 @@
 3 TIME 14:49:21
 0 @I0067@ INDI
 1 NAME Zuzanna /Jaroszewicz/
+2 TYPE birth
 2 GIVN Zuzanna
 2 SURN Jaroszewicz
 1 SEX F
@@ -993,6 +1057,7 @@
 3 TIME 14:52:02
 0 @I0068@ INDI
 1 NAME Kamila /Kowalska/
+2 TYPE birth
 2 GIVN Kamila
 2 SURN Kowalska
 1 SEX F
@@ -1008,6 +1073,7 @@
 3 TIME 14:52:02
 0 @I0069@ INDI
 1 NAME Marta /Miszczak/
+2 TYPE birth
 2 GIVN Marta
 2 SURN Miszczak
 1 SEX F
@@ -1022,6 +1088,7 @@
 3 TIME 14:55:23
 0 @I0070@ INDI
 1 NAME Jerzy /Murawski/
+2 TYPE birth
 2 GIVN Jerzy
 2 SURN Murawski
 1 SEX M
@@ -1037,6 +1104,7 @@
 3 TIME 13:39:28
 0 @I0071@ INDI
 1 NAME Marzena /Murawska-Midowicz/
+2 TYPE birth
 2 GIVN Marzena
 2 SURN Murawska-Midowicz
 1 SEX F
@@ -1051,6 +1119,7 @@
 3 TIME 05:20:30
 0 @I0072@ INDI
 1 NAME Paweł /Midowicz/
+2 TYPE birth
 2 GIVN Paweł
 2 SURN Midowicz
 1 SEX M
@@ -1063,6 +1132,7 @@
 3 TIME 13:43:56
 0 @I0073@ INDI
 1 NAME Margareta /Midowicz/
+2 TYPE birth
 2 GIVN Margareta
 2 SURN Midowicz
 1 SEX F
@@ -1076,6 +1146,7 @@
 3 TIME 05:20:03
 0 @I0074@ INDI
 1 NAME Michał /Rusinowicz/
+2 TYPE birth
 2 GIVN Michał
 2 SURN Rusinowicz
 1 SEX M
@@ -1088,6 +1159,7 @@
 3 TIME 07:43:41
 0 @I0075@ INDI
 1 NAME Maja /Rusinowicz/
+2 TYPE birth
 2 GIVN Maja
 2 SURN Rusinowicz
 1 SEX F
@@ -1101,6 +1173,7 @@
 3 TIME 07:42:30
 0 @I0076@ INDI
 1 NAME Monika /Trzebińska/
+2 TYPE birth
 2 GIVN Monika
 2 SURN Trzebińska
 1 SEX F
@@ -1113,6 +1186,7 @@
 3 TIME 17:29:16
 0 @I0077@ INDI
 1 NAME Antoni /Trzebiński/
+2 TYPE birth
 2 GIVN Antoni
 2 SURN Trzebiński
 1 SEX M
@@ -1126,6 +1200,7 @@
 3 TIME 17:27:21
 0 @I0078@ INDI
 1 NAME Jakub /Trzebiński/
+2 TYPE birth
 2 GIVN Jakub
 2 SURN Trzebiński
 1 SEX M
@@ -1139,6 +1214,7 @@
 3 TIME 17:27:21
 0 @I0079@ INDI
 1 NAME Grzegorz /Murawski/
+2 TYPE birth
 2 GIVN Grzegorz
 2 SURN Murawski
 1 SEX M
@@ -1153,6 +1229,7 @@
 3 TIME 09:21:49
 0 @I0080@ INDI
 1 NAME Marlena /Midowicz/
+2 TYPE birth
 2 GIVN Marlena
 2 SURN Midowicz
 1 SEX F
@@ -1166,6 +1243,7 @@
 3 TIME 05:20:03
 0 @I0081@ INDI
 1 NAME Danuta /Noga/
+2 TYPE birth
 2 GIVN Danuta
 2 SURN Noga
 1 SEX F
@@ -1175,6 +1253,7 @@
 3 TIME 11:05:56
 0 @I0082@ INDI
 1 NAME Wiktoria /Madsen/
+2 TYPE birth
 2 GIVN Wiktoria
 2 SURN Madsen
 1 SEX F
@@ -1182,16 +1261,28 @@
 2 PLAC Poland
 1 DEAT
 2 PLAC Denmark
-2 ADDR
-3 CTRY Denmark
 1 FAMC @F0010@
 2 PEDI birth
 1 FAMS @F0083@
 1 CHAN
 2 DATE 11 MAR 2023
 3 TIME 14:26:48
+0 @I0083@ INDI
+1 NAME Dakota /Schofield/
+2 TYPE birth
+2 GIVN Dakota
+2 SURN Schofield
+1 SEX F
+1 BIRT
+2 DATE 23 JUN 2024
+1 FAMC @F0087@
+2 PEDI birth
+1 CHAN
+2 DATE 12 OCT 2024
+3 TIME 13:27:21
 0 @I0084@ INDI
 1 NAME Agata /Staniszewska/
+2 TYPE birth
 2 GIVN Agata
 2 SURN Staniszewska
 1 SEX F
@@ -1209,6 +1300,7 @@
 3 TIME 12:39:37
 0 @I0085@ INDI
 1 NAME Zofia /Stefańczak/
+2 TYPE birth
 2 GIVN Zofia
 2 SURN Stefańczak
 2 NICK Sophie
@@ -1229,6 +1321,7 @@
 3 TIME 12:19:44
 0 @I0086@ INDI
 1 NAME Czesław /Stefańczak/
+2 TYPE birth
 2 GIVN Czesław
 2 SURN Stefańczak
 2 NICK Chester
@@ -1243,6 +1336,7 @@
 3 TIME 12:20:04
 0 @I0087@ INDI
 1 NAME Andrew /Stefańczak/
+2 TYPE birth
 2 GIVN Andrew
 2 SURN Stefańczak
 1 SEX M
@@ -1256,6 +1350,7 @@
 3 TIME 10:50:20
 0 @I0088@ INDI
 1 NAME Ronald /Stefańczak/
+2 TYPE birth
 2 GIVN Ronald
 2 SURN Stefańczak
 1 SEX M
@@ -1269,6 +1364,7 @@
 3 TIME 10:50:20
 0 @I0089@ INDI
 1 NAME Diane /Stefańczak/
+2 TYPE birth
 2 GIVN Diane
 2 SURN Stefańczak
 1 SEX F
@@ -1278,6 +1374,7 @@
 3 TIME 12:21:54
 0 @I0090@ INDI
 1 NAME Kerry /Schofield/
+2 TYPE birth
 2 GIVN Kerry
 2 SURN Schofield
 1 SEX F
@@ -1286,14 +1383,13 @@
 1 FAMC @F0026@
 2 PEDI birth
 1 FAMS @F0082@
-1 OBJE
-2 FORM URL
-2 FILE https://www.facebook.com/kerrycoldev
+1 WWW https://www.facebook.com/kerrycoldev
 1 CHAN
 2 DATE 1 NOV 2023
 3 TIME 08:08:28
 0 @I0091@ INDI
 1 NAME Ronnie Michael /Stefańczak/
+2 TYPE birth
 2 GIVN Ronnie Michael
 2 SURN Stefańczak
 1 SEX M
@@ -1307,6 +1403,7 @@
 3 TIME 12:08:12
 0 @I0092@ INDI
 1 NAME Rosemary /Cote/
+2 TYPE birth
 2 GIVN Rosemary
 2 SURN Cote
 1 SEX F
@@ -1318,6 +1415,7 @@
 3 TIME 19:00:16
 0 @I0093@ INDI
 1 NAME Mandy /Hoffman/
+2 TYPE birth
 2 GIVN Mandy
 2 SURN Hoffman
 1 SEX F
@@ -1331,6 +1429,7 @@
 3 TIME 12:14:49
 0 @I0094@ INDI
 1 NAME Jenny /Capistrano/
+2 TYPE birth
 2 GIVN Jenny
 2 SURN Capistrano
 1 SEX F
@@ -1339,14 +1438,13 @@
 1 FAMC @F0027@
 2 PEDI birth
 1 FAMS @F0029@
-1 OBJE
-2 FORM URL
-2 FILE https://www.facebook.com/jenny.capistrano.58
+1 WWW https://www.facebook.com/jenny.capistrano.58
 1 CHAN
 2 DATE 1 NOV 2023
 3 TIME 08:08:09
 0 @I0095@ INDI
 1 NAME Seraphina /Hoffman/
+2 TYPE birth
 2 GIVN Seraphina
 2 SURN Hoffman
 1 SEX F
@@ -1359,6 +1457,7 @@
 3 TIME 19:04:35
 0 @I0096@ INDI
 1 NAME Coraline /Hoffman/
+2 TYPE birth
 2 GIVN Coraline
 2 SURN Hoffman
 1 SEX F
@@ -1371,6 +1470,7 @@
 3 TIME 19:04:46
 0 @I0097@ INDI
 1 NAME Isaias /Capistrano/
+2 TYPE birth
 2 GIVN Isaias
 2 SURN Capistrano
 1 SEX M
@@ -1382,6 +1482,7 @@
 3 TIME 19:26:00
 0 @I0098@ INDI
 1 NAME Calli /Capistrano/
+2 TYPE birth
 2 GIVN Calli
 2 SURN Capistrano
 1 SEX F
@@ -1394,6 +1495,7 @@
 3 TIME 19:25:51
 0 @I0099@ INDI
 1 NAME Gabriel /Capistrano/
+2 TYPE birth
 2 GIVN Gabriel
 2 SURN Capistrano
 1 SEX M
@@ -1406,6 +1508,7 @@
 3 TIME 19:25:56
 0 @I0100@ INDI
 1 NAME Matthew /Stefańczak/
+2 TYPE birth
 2 GIVN Matthew
 2 SURN Stefańczak
 1 SEX M
@@ -1419,6 +1522,7 @@
 3 TIME 10:48:18
 0 @I0101@ INDI
 1 NAME Marzena /Kmiecik/
+2 TYPE birth
 2 GIVN Marzena
 2 SURN Kmiecik
 1 SEX F
@@ -1432,6 +1536,7 @@
 3 TIME 14:45:26
 0 @I0102@ INDI
 1 NAME Paweł /Kmiecik/
+2 TYPE birth
 2 GIVN Paweł
 2 SURN Kmiecik
 1 SEX M
@@ -1445,6 +1550,7 @@
 3 TIME 09:35:58
 0 @I0103@ INDI
 1 NAME Franciszek /Czarnik/
+2 TYPE birth
 2 GIVN Franciszek
 2 SURN Czarnik
 1 SEX M
@@ -1460,6 +1566,7 @@
 3 TIME 12:36:23
 0 @I0104@ INDI
 1 NAME Agnieszka /Górka/
+2 TYPE birth
 2 GIVN Agnieszka
 2 SURN Górka
 1 SEX F
@@ -1475,6 +1582,7 @@
 3 TIME 14:36:45
 0 @I0105@ INDI
 1 NAME Anna /Marszałek/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Marszałek
 1 SEX F
@@ -1488,6 +1596,7 @@
 3 TIME 14:37:00
 0 @I0106@ INDI
 1 NAME Ilona /Górka/
+2 TYPE birth
 2 GIVN Ilona
 2 SURN Górka
 1 SEX F
@@ -1500,6 +1609,7 @@
 3 TIME 14:40:05
 0 @I0107@ INDI
 1 NAME Grzegorz /Czarnik/
+2 TYPE birth
 2 GIVN Grzegorz
 2 SURN Czarnik
 1 SEX M
@@ -1514,6 +1624,7 @@
 3 TIME 12:37:58
 0 @I0108@ INDI
 1 NAME Rafał /Czarnik/
+2 TYPE birth
 2 GIVN Rafał
 2 SURN Czarnik
 1 SEX M
@@ -1527,6 +1638,7 @@
 3 TIME 12:30:46
 0 @I0109@ INDI
 1 NAME Łukasz /Czarnik/
+2 TYPE birth
 2 GIVN Łukasz
 2 SURN Czarnik
 1 SEX M
@@ -1541,6 +1653,7 @@
 3 TIME 12:38:48
 0 @I0110@ INDI
 1 NAME Bartek /Kmiecik/
+2 TYPE birth
 2 GIVN Bartek
 2 SURN Kmiecik
 1 SEX M
@@ -1553,6 +1666,7 @@
 3 TIME 09:30:27
 0 @I0111@ INDI
 1 NAME Justyna /Górka/
+2 TYPE birth
 2 GIVN Justyna
 2 SURN Górka
 1 SEX F
@@ -1566,6 +1680,7 @@
 3 TIME 14:41:36
 0 @I0112@ INDI
 1 NAME Genowefa /Czarnik/
+2 TYPE birth
 2 GIVN Genowefa
 2 SURN Czarnik
 1 SEX F
@@ -1577,6 +1692,7 @@
 3 TIME 09:30:55
 0 @I0113@ INDI
 1 NAME Jacek /Kmiecik/
+2 TYPE birth
 2 GIVN Jacek
 2 SURN Kmiecik
 1 SEX M
@@ -1588,6 +1704,7 @@
 3 TIME 09:25:04
 0 @I0114@ INDI
 1 NAME Józef /Górka/
+2 TYPE birth
 2 GIVN Józef
 2 SURN Górka
 1 SEX M
@@ -1599,6 +1716,7 @@
 3 TIME 14:36:27
 0 @I0115@ INDI
 1 NAME Marcin /Marszałek/
+2 TYPE birth
 2 GIVN Marcin
 2 SURN Marszałek
 1 SEX M
@@ -1610,6 +1728,7 @@
 3 TIME 14:37:16
 0 @I0116@ INDI
 1 NAME Andrzej /Czarnik/
+2 TYPE birth
 2 GIVN Andrzej
 2 SURN Czarnik
 1 SEX M
@@ -1624,6 +1743,7 @@
 3 TIME 16:30:57
 0 @I0117@ INDI
 1 NAME Mateusz /Miszczak/
+2 TYPE birth
 2 GIVN Mateusz
 2 SURN Miszczak
 1 SEX M
@@ -1636,6 +1756,7 @@
 3 TIME 14:55:23
 0 @I0118@ INDI
 1 NAME Józef /Jaworski/
+2 TYPE birth
 2 GIVN Józef
 2 SURN Jaworski
 1 SEX M
@@ -1645,6 +1766,7 @@
 3 TIME 16:27:03
 0 @I0119@ INDI
 1 NAME Marianna /Jaworska/
+2 TYPE birth
 2 GIVN Marianna
 2 SURN Jaworska
 1 SEX F
@@ -1654,6 +1776,7 @@
 3 TIME 16:27:03
 0 @I0120@ INDI
 1 NAME Piotr /Łagutin/
+2 TYPE birth
 2 GIVN Piotr
 2 SURN Łagutin
 1 SEX M
@@ -1667,6 +1790,7 @@
 3 TIME 16:43:34
 0 @I0121@ INDI
 1 NAME Franciszek /Noskiewicz/
+2 TYPE birth
 2 GIVN Franciszek
 2 SURN Noskiewicz
 1 SEX M
@@ -1676,6 +1800,7 @@
 3 TIME 16:35:28
 0 @I0122@ INDI
 1 NAME Marianna /Noskiewicz/
+2 TYPE birth
 2 GIVN Marianna
 2 SURN Noskiewicz
 1 SEX F
@@ -1685,6 +1810,7 @@
 3 TIME 16:35:28
 0 @I0123@ INDI
 1 NAME Krzysztof /Łagutin/
+2 TYPE birth
 2 GIVN Krzysztof
 2 SURN Łagutin
 1 SEX M
@@ -1698,6 +1824,7 @@
 3 TIME 16:43:34
 0 @I0124@ INDI
 1 NAME Roman /Łagutin/
+2 TYPE birth
 2 GIVN Roman
 2 SURN Łagutin
 1 SEX M
@@ -1711,6 +1838,7 @@
 3 TIME 16:43:34
 0 @I0125@ INDI
 1 NAME Henryk /Trzebiński/
+2 TYPE birth
 2 GIVN Henryk
 2 SURN Trzebiński
 1 SEX M
@@ -1727,6 +1855,7 @@
 3 TIME 17:22:31
 0 @I0126@ INDI
 1 NAME Ryszard /Trzebiński/
+2 TYPE birth
 2 GIVN Ryszard
 2 SURN Trzebiński
 1 SEX M
@@ -1742,6 +1871,7 @@
 3 TIME 13:28:33
 0 @I0127@ INDI
 1 NAME Czesław /Trzebiński/
+2 TYPE birth
 2 GIVN Czesław
 2 SURN Trzebiński
 1 SEX M
@@ -1757,6 +1887,7 @@
 3 TIME 13:46:04
 0 @I0128@ INDI
 1 NAME Ksawery /Miszczak/
+2 TYPE birth
 2 GIVN Ksawery
 2 SURN Miszczak
 1 SEX M
@@ -1770,6 +1901,7 @@
 3 TIME 14:56:15
 0 @I0129@ INDI
 1 NAME Maciej /Miszczak/
+2 TYPE birth
 2 GIVN Maciej
 2 SURN Miszczak
 1 SEX M
@@ -1783,6 +1915,7 @@
 3 TIME 14:56:15
 0 @I0130@ INDI
 1 NAME Maciej /Noga/
+2 TYPE birth
 2 GIVN Maciej
 2 SURN Noga
 1 SEX M
@@ -1799,6 +1932,7 @@
 3 TIME 20:27:38
 0 @I0131@ INDI
 1 NAME Magda /Zych/
+2 TYPE birth
 2 GIVN Magda
 2 SURN Zych
 1 SEX F
@@ -1816,6 +1950,7 @@
 3 TIME 20:33:20
 0 @I0132@ INDI
 1 NAME Anna /Noga/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Noga
 1 SEX F
@@ -1824,6 +1959,7 @@
 3 TIME 07:20:17
 0 @I0133@ INDI
 1 NAME Jakub /Noga/
+2 TYPE birth
 2 GIVN Jakub
 2 SURN Noga
 1 SEX M
@@ -1832,6 +1968,7 @@
 3 TIME 07:20:14
 0 @I0134@ INDI
 1 NAME Jacek /Noga/
+2 TYPE birth
 2 GIVN Jacek
 2 SURN Noga
 1 SEX M
@@ -1840,6 +1977,7 @@
 3 TIME 07:20:14
 0 @I0135@ INDI
 1 NAME Leszek /Kurek/
+2 TYPE birth
 2 GIVN Leszek
 2 SURN Kurek
 1 SEX M
@@ -1855,6 +1993,7 @@
 3 TIME 16:42:56
 0 @I0136@ INDI
 1 NAME Jacek /Kurek/
+2 TYPE birth
 2 GIVN Jacek
 2 SURN Kurek
 1 SEX M
@@ -1871,6 +2010,7 @@
 3 TIME 16:42:26
 0 @I0137@ INDI
 1 NAME Jakub /Kurek/
+2 TYPE birth
 2 GIVN Jakub
 2 SURN Kurek
 1 SEX M
@@ -1887,6 +2027,7 @@
 3 TIME 16:42:12
 0 @I0138@ INDI
 1 NAME Grzegorz /Noga/
+2 TYPE birth
 2 GIVN Grzegorz
 2 SURN Noga
 1 SEX M
@@ -1897,6 +2038,7 @@
 3 TIME 19:42:31
 0 @I0139@ INDI
 1 NAME Adam /Noga/
+2 TYPE birth
 2 GIVN Adam
 2 SURN Noga
 1 SEX M
@@ -1907,6 +2049,7 @@
 3 TIME 19:42:31
 0 @I0140@ INDI
 1 NAME Anna /Noga/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Noga
 1 SEX F
@@ -1917,6 +2060,7 @@
 3 TIME 07:26:00
 0 @I0141@ INDI
 1 NAME Grzegorz /Noga/
+2 TYPE birth
 2 GIVN Grzegorz
 2 SURN Noga
 1 SEX M
@@ -1927,6 +2071,7 @@
 3 TIME 07:26:00
 0 @I0142@ INDI
 1 NAME Michał /Jarzębski/
+2 TYPE birth
 2 GIVN Michał
 2 SURN Jarzębski
 1 SEX M
@@ -1938,6 +2083,7 @@
 3 TIME 07:43:16
 0 @I0144@ INDI
 1 NAME Katarzyna /Jarzębska/
+2 TYPE birth
 2 GIVN Katarzyna
 2 SURN Jarzębska
 1 SEX F
@@ -1947,6 +2093,7 @@
 3 TIME 07:31:58
 0 @I0145@ INDI
 1 NAME Anna /Staniszewska/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Staniszewska
 1 SEX F
@@ -1956,6 +2103,7 @@
 3 TIME 11:43:20
 0 @I0146@ INDI
 1 NAME Karol /Mendycki/
+2 TYPE birth
 2 GIVN Karol
 2 SURN Mendycki
 1 SEX M
@@ -1965,6 +2113,7 @@
 3 TIME 11:51:00
 0 @I0147@ INDI
 1 NAME Anna /Mendycka/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Mendycka
 1 SEX F
@@ -1974,6 +2123,7 @@
 3 TIME 11:51:00
 0 @I0150@ INDI
 1 NAME Paweł /Staniszewski/
+2 TYPE birth
 2 GIVN Paweł
 2 SURN Staniszewski
 1 SEX M
@@ -1986,6 +2136,7 @@
 3 TIME 13:33:03
 0 @I0151@ INDI
 1 NAME Karol /Staniszewski/
+2 TYPE birth
 2 GIVN Karol
 2 SURN Staniszewski
 1 SEX M
@@ -2000,6 +2151,7 @@
 3 TIME 13:33:03
 0 @I0152@ INDI
 1 NAME Aniela /Mendycka/
+2 TYPE birth
 2 GIVN Aniela
 2 SURN Mendycka
 1 SEX F
@@ -2014,6 +2166,7 @@
 3 TIME 13:44:32
 0 @I0153@ INDI
 1 NAME Wiktoria /Mendycka/
+2 TYPE birth
 2 GIVN Wiktoria
 2 SURN Mendycka
 1 SEX F
@@ -2026,6 +2179,7 @@
 3 TIME 13:43:40
 0 @I0154@ INDI
 1 NAME Andrzej /Mendycki/
+2 TYPE birth
 2 GIVN Andrzej
 2 SURN Mendycki
 1 SEX M
@@ -2040,6 +2194,7 @@
 3 TIME 13:44:42
 0 @I0155@ INDI
 1 NAME Michał /Mendycki/
+2 TYPE birth
 2 GIVN Michał
 2 SURN Mendycki
 1 SEX M
@@ -2053,6 +2208,7 @@
 3 TIME 17:15:47
 0 @I0156@ INDI
 1 NAME Marianna /Mendycka/
+2 TYPE birth
 2 GIVN Marianna
 2 SURN Mendycka
 1 SEX F
@@ -2066,6 +2222,7 @@
 3 TIME 15:07:37
 0 @I0157@ INDI
 1 NAME Stanisława /Trzebińska/
+2 TYPE birth
 2 GIVN Stanisława
 2 SURN Trzebińska
 1 SEX F
@@ -2079,6 +2236,7 @@
 3 TIME 13:45:15
 0 @I0158@ INDI
 1 NAME Wacław /Trzebiński/
+2 TYPE birth
 2 GIVN Wacław
 2 SURN Trzebiński
 1 SEX M
@@ -2094,14 +2252,13 @@
 3 TIME 13:57:49
 0 @I0159@ INDI
 1 NAME Stanisław /Trzebiński/
+2 TYPE birth
 2 GIVN Stanisław
 2 SURN Trzebiński
 1 SEX M
 1 BIRT
 2 DATE 11 APR 1861
 2 PLAC Rdutów
-2 ADDR
-3 CITY Rdutów
 1 DEAT
 2 DATE 26 OCT 1937
 1 FAMC @F0056@
@@ -2112,6 +2269,7 @@
 3 TIME 17:15:49
 0 @I0160@ INDI
 1 NAME Marcin /Trzebiński/
+2 TYPE birth
 2 GIVN Marcin
 2 SURN Trzebiński
 1 SEX M
@@ -2121,6 +2279,7 @@
 3 TIME 19:09:32
 0 @I0161@ INDI
 1 NAME Maria /Trzebińska/
+2 TYPE birth
 2 GIVN Maria
 2 SURN Trzebińska
 1 SEX F
@@ -2135,6 +2294,7 @@
 3 TIME 13:54:51
 0 @I0162@ INDI
 1 NAME Leonard /Trzebiński/
+2 TYPE birth
 2 GIVN Leonard
 2 SURN Trzebiński
 1 SEX M
@@ -2150,6 +2310,7 @@
 3 TIME 13:49:12
 0 @I0163@ INDI
 1 NAME Ignacy /Trzebiński/
+2 TYPE birth
 2 GIVN Ignacy
 2 SURN Trzebiński
 1 SEX M
@@ -2161,6 +2322,7 @@
 3 TIME 17:05:06
 0 @I0164@ INDI
 1 NAME Barbara /Trzebińska/
+2 TYPE birth
 2 GIVN Barbara
 2 SURN Trzebińska
 1 SEX F
@@ -2175,6 +2337,7 @@
 3 TIME 13:53:42
 0 @I0165@ INDI
 1 NAME Jerzy /Trzebiński/
+2 TYPE birth
 2 GIVN Jerzy
 2 SURN Trzebiński
 1 SEX M
@@ -2185,6 +2348,7 @@
 3 TIME 19:13:25
 0 @I0166@ INDI
 1 NAME Jadwiga /Trzebińska/
+2 TYPE birth
 2 GIVN Jadwiga
 2 SURN Trzebińska
 1 SEX F
@@ -2195,6 +2359,7 @@
 3 TIME 19:13:25
 0 @I0167@ INDI
 1 NAME Danuta /Trzebińska/
+2 TYPE birth
 2 GIVN Danuta
 2 SURN Trzebińska
 1 SEX F
@@ -2205,6 +2370,7 @@
 3 TIME 19:13:25
 0 @I0168@ INDI
 1 NAME Janina /Trzebińska/
+2 TYPE birth
 2 GIVN Janina
 2 SURN Trzebińska
 1 SEX F
@@ -2214,6 +2380,7 @@
 3 TIME 19:14:21
 0 @I0169@ INDI
 1 NAME Andrzej /Trzebiński/
+2 TYPE birth
 2 GIVN Andrzej
 2 SURN Trzebiński
 1 SEX M
@@ -2224,6 +2391,7 @@
 3 TIME 19:14:21
 0 @I0170@ INDI
 1 NAME Jan /Trzebiński/
+2 TYPE birth
 2 GIVN Jan
 2 SURN Trzebiński
 1 SEX M
@@ -2235,6 +2403,7 @@
 3 TIME 19:42:50
 0 @I0171@ INDI
 1 NAME Stefania /Trzebińska/
+2 TYPE birth
 2 GIVN Stefania
 2 SURN Trzebińska
 1 SEX F
@@ -2243,6 +2412,7 @@
 3 TIME 19:44:28
 0 @I0172@ INDI
 1 NAME Jerzy /Trzebiński/
+2 TYPE birth
 2 GIVN Jerzy
 2 SURN Trzebiński
 1 SEX M
@@ -2258,6 +2428,7 @@
 3 TIME 13:34:23
 0 @I0173@ INDI
 1 NAME Violetta /Trzebińska/
+2 TYPE birth
 2 GIVN Violetta
 2 SURN Trzebińska
 1 SEX F
@@ -2271,6 +2442,7 @@
 3 TIME 13:40:41
 0 @I0174@ INDI
 1 NAME Katarzyna /Trzebińska/
+2 TYPE birth
 2 GIVN Katarzyna
 2 SURN Trzebińska
 1 SEX F
@@ -2281,6 +2453,7 @@
 3 TIME 20:05:17
 0 @I0175@ INDI
 1 NAME Magdalena /Trzebińska/
+2 TYPE birth
 2 GIVN Magdalena
 2 SURN Trzebińska
 1 SEX F
@@ -2291,6 +2464,7 @@
 3 TIME 19:16:20
 0 @I0176@ INDI
 1 NAME Agnieszka /Trzebińska/
+2 TYPE birth
 2 GIVN Agnieszka
 2 SURN Trzebińska
 1 SEX F
@@ -2301,6 +2475,7 @@
 3 TIME 13:35:05
 0 @I0177@ INDI
 1 NAME Maryla /Trzebińska/
+2 TYPE birth
 2 GIVN Maryla
 2 SURN Trzebińska
 1 SEX F
@@ -2314,6 +2489,7 @@
 3 TIME 17:23:26
 0 @I0178@ INDI
 1 NAME Maciej /Trzebiński/
+2 TYPE birth
 2 GIVN Maciej
 2 SURN Trzebiński
 1 SEX M
@@ -2325,6 +2501,7 @@
 3 TIME 19:33:27
 0 @I0179@ INDI
 1 NAME Elżbieta /Trzebińska/
+2 TYPE birth
 2 GIVN Elżbieta
 2 SURN Trzebińska
 1 SEX F
@@ -2336,6 +2513,7 @@
 3 TIME 19:34:20
 0 @I0180@ INDI
 1 NAME Anita /Pińkowska/
+2 TYPE birth
 2 GIVN Anita
 2 SURN Pińkowska
 1 SEX F
@@ -2347,6 +2525,7 @@
 3 TIME 19:35:14
 0 @I0181@ INDI
 1 NAME Barbara /Trzebińska/
+2 TYPE birth
 2 GIVN Barbara
 2 SURN Trzebińska
 1 SEX F
@@ -2356,6 +2535,7 @@
 3 TIME 19:37:15
 0 @I0182@ INDI
 1 NAME Magdalena /Trzebińska/
+2 TYPE birth
 2 GIVN Magdalena
 2 SURN Trzebińska
 1 SEX F
@@ -2366,6 +2546,7 @@
 3 TIME 19:33:27
 0 @I0183@ INDI
 1 NAME Joanna /Trzebińska/
+2 TYPE birth
 2 GIVN Joanna
 2 SURN Trzebińska
 1 SEX F
@@ -2376,6 +2557,7 @@
 3 TIME 19:33:27
 0 @I0184@ INDI
 1 NAME Zbigniew /Muchowicz/
+2 TYPE birth
 2 GIVN Zbigniew
 2 SURN Muchowicz
 1 SEX M
@@ -2385,6 +2567,7 @@
 3 TIME 19:56:23
 0 @I0185@ INDI
 1 NAME Edyta /Rogiewicz/
+2 TYPE birth
 2 GIVN Edyta
 2 SURN Rogiewicz
 1 SEX F
@@ -2396,6 +2579,7 @@
 3 TIME 08:52:54
 0 @I0186@ INDI
 1 NAME Ryszard /Pińkowski/
+2 TYPE birth
 2 GIVN Ryszard
 2 SURN Pińkowski
 1 SEX M
@@ -2405,6 +2589,7 @@
 3 TIME 19:35:14
 0 @I0187@ INDI
 1 NAME Anna /Trzebińska/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Trzebińska
 1 SEX F
@@ -2414,6 +2599,7 @@
 3 TIME 19:42:50
 0 @I0188@ INDI
 1 NAME Stefania /Trzebińska/
+2 TYPE birth
 2 GIVN Stefania
 2 SURN Trzebińska
 1 SEX F
@@ -2427,6 +2613,7 @@
 3 TIME 13:41:47
 0 @I0190@ INDI
 1 NAME Bronisława /Mendycka/
+2 TYPE birth
 2 GIVN Bronisława
 2 SURN Mendycka
 1 SEX F
@@ -2436,6 +2623,7 @@
 3 TIME 17:15:47
 0 @I0191@ INDI
 1 NAME Jan /Mendycki/
+2 TYPE birth
 2 GIVN Jan
 2 SURN Mendycki
 1 SEX M
@@ -2446,6 +2634,7 @@
 3 TIME 17:16:44
 0 @I0192@ INDI
 1 NAME Stanisław /Mendycki/
+2 TYPE birth
 2 GIVN Stanisław
 2 SURN Mendycki
 1 SEX M
@@ -2456,6 +2645,7 @@
 3 TIME 17:16:44
 0 @I0193@ INDI
 1 NAME Andrzej /Mendycki/
+2 TYPE birth
 2 GIVN Andrzej
 2 SURN Mendycki
 1 SEX M
@@ -2466,6 +2656,7 @@
 3 TIME 17:16:44
 0 @I0194@ INDI
 1 NAME Maria /Mendycka/
+2 TYPE birth
 2 GIVN Maria
 2 SURN Mendycka
 1 SEX F
@@ -2476,6 +2667,7 @@
 3 TIME 17:16:44
 0 @I0195@ INDI
 1 NAME Józef /Mendycki/
+2 TYPE birth
 2 GIVN Józef
 2 SURN Mendycki
 1 SEX M
@@ -2489,6 +2681,7 @@
 3 TIME 17:53:54
 0 @I0196@ INDI
 1 NAME Anna /Mendycka/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Mendycka
 1 SEX F
@@ -2499,6 +2692,7 @@
 3 TIME 18:14:38
 0 @I0197@ INDI
 1 NAME Zofia /Mendycka/
+2 TYPE birth
 2 GIVN Zofia
 2 SURN Mendycka
 1 SEX F
@@ -2508,6 +2702,7 @@
 3 TIME 17:17:38
 0 @I0198@ INDI
 1 NAME Leon /Mendycki/
+2 TYPE birth
 2 GIVN Leon
 2 SURN Mendycki
 1 SEX M
@@ -2521,6 +2716,7 @@
 3 TIME 17:53:41
 0 @I0199@ INDI
 1 NAME Stanisław /Mendycki/
+2 TYPE birth
 2 GIVN Stanisław
 2 SURN Mendycki
 1 SEX M
@@ -2531,6 +2727,7 @@
 3 TIME 17:18:39
 0 @I0200@ INDI
 1 NAME Ewa /Mendycka/
+2 TYPE birth
 2 GIVN Ewa
 2 SURN Mendycka
 1 SEX F
@@ -2541,6 +2738,7 @@
 3 TIME 17:18:39
 0 @I0201@ INDI
 1 NAME Barbara /Mendycka/
+2 TYPE birth
 2 GIVN Barbara
 2 SURN Mendycka
 1 SEX F
@@ -2551,6 +2749,7 @@
 3 TIME 17:18:39
 0 @I0202@ INDI
 1 NAME Małgorzata /Mendycka/
+2 TYPE birth
 2 GIVN Małgorzata
 2 SURN Mendycka
 1 SEX F
@@ -2561,6 +2760,7 @@
 3 TIME 17:18:39
 0 @I0203@ INDI
 1 NAME Zofia /Mendycka/
+2 TYPE birth
 2 GIVN Zofia
 2 SURN Mendycka
 1 SEX F
@@ -2570,6 +2770,7 @@
 3 TIME 17:20:25
 0 @I0204@ INDI
 1 NAME Mariusz /Mendycki/
+2 TYPE birth
 2 GIVN Mariusz
 2 SURN Mendycki
 1 SEX M
@@ -2583,6 +2784,7 @@
 3 TIME 17:50:22
 0 @I0205@ INDI
 1 NAME Sylwia /Szybiak/
+2 TYPE birth
 2 GIVN Sylwia
 2 SURN Szybiak
 1 SEX F
@@ -2594,6 +2796,7 @@
 3 TIME 17:35:47
 0 @I0206@ INDI
 1 NAME Karol /Mendycki/
+2 TYPE birth
 2 GIVN Karol
 2 SURN Mendycki
 1 SEX M
@@ -2608,6 +2811,7 @@
 3 TIME 17:35:47
 0 @I0207@ INDI
 1 NAME Justyna /Mendycka/
+2 TYPE birth
 2 GIVN Justyna
 2 SURN Mendycka
 1 SEX F
@@ -2619,6 +2823,7 @@
 3 TIME 17:27:06
 0 @I0208@ INDI
 1 NAME Pola /Mendycka/
+2 TYPE birth
 2 GIVN Pola
 2 SURN Mendycka
 1 SEX F
@@ -2631,6 +2836,7 @@
 3 TIME 17:26:53
 0 @I0209@ INDI
 1 NAME Eryk /Mendycki/
+2 TYPE birth
 2 GIVN Eryk
 2 SURN Mendycki
 1 SEX M
@@ -2643,6 +2849,7 @@
 3 TIME 17:26:53
 0 @I0210@ INDI
 1 NAME Tadeusz /Szybiak/
+2 TYPE birth
 2 GIVN Tadeusz
 2 SURN Szybiak
 1 SEX M
@@ -2652,6 +2859,7 @@
 3 TIME 17:28:33
 0 @I0211@ INDI
 1 NAME Hanna /Szybiak/
+2 TYPE birth
 2 GIVN Hanna
 2 SURN Szybiak
 1 SEX F
@@ -2662,6 +2870,7 @@
 3 TIME 17:28:33
 0 @I0212@ INDI
 1 NAME Mariola /Mendycka/
+2 TYPE birth
 2 GIVN Mariola
 2 SURN Mendycka
 1 SEX F
@@ -2672,6 +2881,7 @@
 3 TIME 17:35:47
 0 @I0213@ INDI
 1 NAME Andrzej /Staniszewski/
+2 TYPE birth
 2 GIVN Andrzej
 2 SURN Staniszewski
 1 SEX M
@@ -2684,6 +2894,7 @@
 3 TIME 09:26:30
 0 @I0214@ INDI
 1 NAME Agnieszka /Staniszewska/
+2 TYPE birth
 2 GIVN Agnieszka
 2 SURN Staniszewska
 1 SEX F
@@ -2697,6 +2908,7 @@
 3 TIME 09:26:51
 0 @I0215@ INDI
 1 NAME Grażyna /Noga/
+2 TYPE birth
 2 GIVN Grażyna
 2 SURN Noga
 1 SEX F
@@ -2706,6 +2918,7 @@
 3 TIME 19:42:31
 0 @I0216@ INDI
 1 NAME Janina /Staniszewska/
+2 TYPE birth
 2 GIVN Janina
 2 SURN Staniszewska
 1 SEX F
@@ -2718,6 +2931,7 @@
 3 TIME 11:30:47
 0 @I0217@ INDI
 1 NAME Marzena /Staniszewska/
+2 TYPE birth
 2 GIVN Marzena
 2 SURN Staniszewska
 1 SEX F
@@ -2732,6 +2946,7 @@
 3 TIME 20:05:57
 0 @I0218@ INDI
 1 NAME Mariusz /Staniszewski/
+2 TYPE birth
 2 GIVN Mariusz
 2 SURN Staniszewski
 1 SEX M
@@ -2745,6 +2960,7 @@
 3 TIME 11:12:22
 0 @I0219@ INDI
 1 NAME Jacek /Staniszewski/
+2 TYPE birth
 2 GIVN Jacek
 2 SURN Staniszewski
 1 SEX M
@@ -2759,6 +2975,7 @@
 3 TIME 20:06:53
 0 @I0220@ INDI
 1 NAME Sławomir /Staniszewski/
+2 TYPE birth
 2 GIVN Sławomir
 2 SURN Staniszewski
 1 SEX M
@@ -2768,6 +2985,7 @@
 3 TIME 07:52:06
 0 @I0221@ INDI
 1 NAME Kacper /Staniszewski/
+2 TYPE birth
 2 GIVN Kacper
 2 SURN Staniszewski
 1 SEX M
@@ -2784,6 +3002,7 @@
 3 TIME 20:15:53
 0 @I0222@ INDI
 1 NAME Edyta /Murawska/
+2 TYPE birth
 2 GIVN Edyta
 2 SURN Murawska
 1 SEX F
@@ -2793,6 +3012,7 @@
 3 TIME 09:21:49
 0 @I0223@ INDI
 1 NAME Kamila /Murawska/
+2 TYPE birth
 2 GIVN Kamila
 2 SURN Murawska
 1 SEX F
@@ -2803,6 +3023,7 @@
 3 TIME 09:21:49
 0 @I0224@ INDI
 1 NAME Chris /Hoffman/
+2 TYPE birth
 2 GIVN Chris
 2 SURN Hoffman
 1 SEX M
@@ -2814,6 +3035,7 @@
 3 TIME 19:24:08
 0 @I0225@ INDI
 1 NAME Helena /Staniszewska/
+2 TYPE birth
 2 GIVN Helena
 2 SURN Staniszewska
 1 SEX F
@@ -2825,6 +3047,7 @@
 3 TIME 09:26:07
 0 @I0226@ INDI
 1 NAME Maja //
+2 TYPE birth
 2 GIVN Maja
 1 SEX F
 1 BIRT
@@ -2836,6 +3059,7 @@
 3 TIME 09:27:16
 0 @I0227@ INDI
 1 NAME Mikołaj //
+2 TYPE birth
 2 GIVN Mikołaj
 1 SEX M
 1 BIRT
@@ -2847,6 +3071,7 @@
 3 TIME 09:27:35
 0 @I0228@ INDI
 1 NAME Anna /Staniszewska/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Staniszewska
 1 SEX F
@@ -2858,14 +3083,13 @@
 3 TIME 11:12:45
 0 @I0229@ INDI
 1 NAME Agata /Staniszewska/
+2 TYPE birth
 2 GIVN Agata
 2 SURN Staniszewska
 1 SEX F
 1 BIRT
 2 DATE 4 FEB 1997
 2 PLAC Słubice
-2 ADDR
-3 CITY Słubice
 1 FAMC @F0077@
 2 PEDI birth
 1 FAMS @F0093@
@@ -2874,14 +3098,13 @@
 3 TIME 19:50:16
 0 @I0230@ INDI
 1 NAME Paulina /Szatkowska/
+2 TYPE birth
 2 GIVN Paulina
 2 SURN Szatkowska
 1 SEX F
 1 BIRT
 2 DATE 29 SEP 1998
 2 PLAC Gorzów Wielkopolski
-2 ADDR
-3 CITY Gorzów Wielkopolski
 1 FAMC @F0077@
 2 PEDI birth
 1 FAMS @F0078@
@@ -2890,14 +3113,13 @@
 3 TIME 11:06:22
 0 @I0231@ INDI
 1 NAME Magdalena /Staniszewska/
+2 TYPE birth
 2 GIVN Magdalena
 2 SURN Staniszewska
 1 SEX F
 1 BIRT
 2 DATE 18 AUG 2000
 2 PLAC Słubice
-2 ADDR
-3 CITY Słubice
 1 FAMC @F0077@
 2 PEDI birth
 1 CHAN
@@ -2905,6 +3127,7 @@
 3 TIME 11:01:29
 0 @I0232@ INDI
 1 NAME Adrian /Szatkowski/
+2 TYPE birth
 2 GIVN Adrian
 2 SURN Szatkowski
 1 SEX M
@@ -2917,6 +3140,7 @@
 3 TIME 11:06:22
 0 @I0233@ INDI
 1 NAME Maksymilian /Szatkowski/
+2 TYPE birth
 2 GIVN Maksymilian
 2 SURN Szatkowski
 1 SEX M
@@ -2930,6 +3154,7 @@
 3 TIME 11:13:31
 0 @I0234@ INDI
 1 NAME Magdalena /Staniszewska/
+2 TYPE birth
 2 GIVN Magdalena
 2 SURN Staniszewska
 1 SEX F
@@ -2942,6 +3167,7 @@
 3 TIME 20:07:36
 0 @I0235@ INDI
 1 NAME Dawid /Staniszewski/
+2 TYPE birth
 2 GIVN Dawid
 2 SURN Staniszewski
 1 SEX M
@@ -2955,6 +3181,7 @@
 3 TIME 20:08:48
 0 @I0236@ INDI
 1 NAME Tomasz /Staniszewski/
+2 TYPE birth
 2 GIVN Tomasz
 2 SURN Staniszewski
 1 SEX M
@@ -2968,13 +3195,12 @@
 3 TIME 20:15:53
 0 @I0237@ INDI
 1 NAME Marcelina /Staniszewski/
+2 TYPE birth
 2 GIVN Marcelina
 2 SURN Staniszewski
 1 SEX F
 1 BIRT
 2 PLAC USA
-2 ADDR
-3 CTRY USA
 1 FAMC @F0080@
 2 PEDI birth
 1 CHAN
@@ -2982,13 +3208,12 @@
 3 TIME 14:06:17
 0 @I0238@ INDI
 1 NAME Franciszek /Staniszewski/
+2 TYPE birth
 2 GIVN Franciszek
 2 SURN Staniszewski
 1 SEX M
 1 BIRT
 2 PLAC USA
-2 ADDR
-3 CTRY USA
 1 FAMC @F0080@
 2 PEDI birth
 1 CHAN
@@ -2996,13 +3221,12 @@
 3 TIME 14:06:17
 0 @I0239@ INDI
 1 NAME Jasiek /Staniszewski/
+2 TYPE birth
 2 GIVN Jasiek
 2 SURN Staniszewski
 1 SEX M
 1 BIRT
 2 PLAC USA
-2 ADDR
-3 CTRY USA
 1 FAMC @F0080@
 2 PEDI birth
 1 CHAN
@@ -3010,12 +3234,11 @@
 3 TIME 14:06:17
 0 @I0240@ INDI
 1 NAME  /Staniszewska/
+2 TYPE birth
 2 SURN Staniszewska
 1 SEX F
 1 BIRT
 2 PLAC USA
-2 ADDR
-3 CTRY USA
 1 FAMC @F0080@
 2 PEDI birth
 1 CHAN
@@ -3023,6 +3246,7 @@
 3 TIME 14:06:17
 0 @I0241@ INDI
 1 NAME Staniszewska /Wiktoria/
+2 TYPE birth
 2 GIVN Staniszewska
 2 SURN Wiktoria
 1 SEX F
@@ -3032,6 +3256,7 @@
 3 TIME 14:08:35
 0 @I0242@ INDI
 1 NAME Katarzyna /Staniszewska/
+2 TYPE birth
 2 GIVN Katarzyna
 2 SURN Staniszewska
 1 SEX F
@@ -3044,6 +3269,7 @@
 3 TIME 14:08:35
 0 @I0243@ INDI
 1 NAME Wincenty /Staniszewski/
+2 TYPE birth
 2 GIVN Wincenty
 2 SURN Staniszewski
 1 SEX M
@@ -3056,6 +3282,7 @@
 3 TIME 14:08:35
 0 @I0244@ INDI
 1 NAME Benedykt /Staniszewski/
+2 TYPE birth
 2 GIVN Benedykt
 2 SURN Staniszewski
 1 SEX M
@@ -3068,6 +3295,7 @@
 3 TIME 14:08:35
 0 @I0245@ INDI
 1 NAME Czesław /Staniszewski/
+2 TYPE birth
 2 GIVN Czesław
 2 SURN Staniszewski
 1 SEX M
@@ -3080,6 +3308,7 @@
 3 TIME 14:08:35
 0 @I0246@ INDI
 1 NAME Roman /Staniszewski/
+2 TYPE birth
 2 GIVN Roman
 2 SURN Staniszewski
 1 SEX M
@@ -3092,6 +3321,7 @@
 3 TIME 14:08:35
 0 @I0247@ INDI
 1 NAME Kristian /Madsen/
+2 TYPE birth
 2 GIVN Kristian
 2 SURN Madsen
 1 SEX M
@@ -3101,13 +3331,12 @@
 3 TIME 14:18:24
 0 @I0248@ INDI
 1 NAME Stefania /Madsen/
+2 TYPE birth
 2 GIVN Stefania
 2 SURN Madsen
 1 SEX F
 1 BIRT
 2 PLAC Denmark
-2 ADDR
-3 CTRY Denmark
 1 FAMC @F0083@
 2 PEDI birth
 1 CHAN
@@ -3115,6 +3344,7 @@
 3 TIME 14:18:24
 0 @I0249@ INDI
 1 NAME Jan /Żurawski/
+2 TYPE birth
 2 GIVN Jan
 2 SURN Żurawski
 1 SEX M
@@ -3124,13 +3354,12 @@
 3 TIME 14:19:53
 0 @I0250@ INDI
 1 NAME Marcelia /Żurawska/
+2 TYPE birth
 2 GIVN Marcelia
 2 SURN Żurawska
 1 SEX F
 1 BIRT
 2 PLAC USA
-2 ADDR
-3 CTRY USA
 1 FAMC @F0084@
 2 PEDI birth
 1 CHAN
@@ -3138,12 +3367,11 @@
 3 TIME 14:19:53
 0 @I0251@ INDI
 1 NAME  /Żurawska/
+2 TYPE birth
 2 SURN Żurawska
 1 SEX F
 1 BIRT
 2 PLAC USA
-2 ADDR
-3 CTRY USA
 1 FAMC @F0084@
 2 PEDI birth
 1 CHAN
@@ -3151,6 +3379,7 @@
 3 TIME 14:22:12
 0 @I0252@ INDI
 1 NAME Piotr /Trzebiński/
+2 TYPE birth
 2 GIVN Piotr
 2 SURN Trzebiński
 1 SEX M
@@ -3162,6 +3391,7 @@
 3 TIME 16:56:34
 0 @I0253@ INDI
 1 NAME Anna /Trzebińska/
+2 TYPE birth
 2 GIVN Anna
 2 SURN Trzebińska
 1 SEX F
@@ -3172,6 +3402,7 @@
 3 TIME 16:56:34
 0 @I0254@ INDI
 1 NAME Konstancja /Trzebińska/
+2 TYPE birth
 2 GIVN Konstancja
 2 SURN Trzebińska
 1 SEX F
@@ -3181,6 +3412,7 @@
 3 TIME 17:14:04
 0 @I0255@ INDI
 1 NAME Antonina /Trzebińska/
+2 TYPE birth
 2 GIVN Antonina
 2 SURN Trzebińska
 1 SEX F
@@ -3194,6 +3426,7 @@
 3 TIME 14:10:12
 0 @I0256@ INDI
 1 NAME Scott /Schofield/
+2 TYPE birth
 2 GIVN Scott
 2 SURN Schofield
 1 SEX M
@@ -3205,6 +3438,7 @@
 3 TIME 10:40:54
 0 @I0257@ INDI
 1 NAME Devin /Schofield/
+2 TYPE birth
 2 GIVN Devin
 2 SURN Schofield
 1 SEX M
@@ -3218,6 +3452,7 @@
 3 TIME 10:46:38
 0 @I0258@ INDI
 1 NAME Collin /Schofield/
+2 TYPE birth
 2 GIVN Collin
 2 SURN Schofield
 1 SEX M
@@ -3230,6 +3465,7 @@
 3 TIME 07:59:51
 0 @I0259@ INDI
 1 NAME Bredy /Schofield/
+2 TYPE birth
 2 GIVN Bredy
 2 SURN Schofield
 1 SEX M
@@ -3242,6 +3478,7 @@
 3 TIME 07:58:30
 0 @I0260@ INDI
 1 NAME Brody /Schofield/
+2 TYPE birth
 2 GIVN Brody
 2 SURN Schofield
 1 SEX M
@@ -3254,6 +3491,7 @@
 3 TIME 07:58:37
 0 @I0261@ INDI
 1 NAME Samanta /Schofield/
+2 TYPE birth
 2 GIVN Samanta
 2 SURN Schofield
 1 SEX F
@@ -3265,6 +3503,7 @@
 3 TIME 07:59:01
 0 @I0262@ INDI
 1 NAME Jaxson /Schofield/
+2 TYPE birth
 2 GIVN Jaxson
 2 SURN Schofield
 1 SEX M
@@ -3273,10 +3512,11 @@
 1 FAMC @F0087@
 2 PEDI birth
 1 CHAN
-2 DATE 1 NOV 2023
-3 TIME 08:01:04
+2 DATE 12 OCT 2024
+3 TIME 13:27:21
 0 @I0263@ INDI
 1 NAME Willow /Schofield/
+2 TYPE birth
 2 GIVN Willow
 2 SURN Schofield
 1 SEX F
@@ -3285,10 +3525,11 @@
 1 FAMC @F0087@
 2 PEDI birth
 1 CHAN
-2 DATE 1 NOV 2023
-3 TIME 08:01:13
+2 DATE 12 OCT 2024
+3 TIME 13:27:21
 0 @I0264@ INDI
 1 NAME Becici //
+2 TYPE birth
 2 GIVN Becici
 1 SEX F
 1 BIRT
@@ -3299,6 +3540,7 @@
 3 TIME 10:48:18
 0 @I0265@ INDI
 1 NAME Brianna /Stefańczak/
+2 TYPE birth
 2 GIVN Brianna
 2 SURN Stefańczak
 1 SEX F
@@ -3309,6 +3551,7 @@
 3 TIME 10:48:47
 0 @I0266@ INDI
 1 NAME Madison /Stefańczak/
+2 TYPE birth
 2 GIVN Madison
 2 SURN Stefańczak
 1 SEX F
@@ -3319,18 +3562,18 @@
 3 TIME 10:48:47
 0 @I0268@ INDI
 1 NAME Pamela /Stefańczak/
+2 TYPE birth
 2 GIVN Pamela
 2 SURN Stefańczak
 1 SEX F
 1 FAMS @F0090@
-1 OBJE
-2 FORM URL
-2 FILE https://www.facebook.com/pamela.brostekstefanczak
+1 WWW https://www.facebook.com/pamela.brostekstefanczak
 1 CHAN
 2 DATE 1 NOV 2023
 3 TIME 08:11:45
 0 @I0269@ INDI
 1 NAME Veronica /Stefańczak/
+2 TYPE birth
 2 GIVN Veronica
 2 SURN Stefańczak
 1 SEX F
@@ -3343,6 +3586,7 @@
 3 TIME 12:06:11
 0 @I0270@ INDI
 1 NAME Zuzanna /Marszałek/
+2 TYPE birth
 2 GIVN Zuzanna
 2 SURN Marszałek
 1 SEX F
@@ -3355,6 +3599,7 @@
 3 TIME 14:39:37
 0 @I0271@ INDI
 1 NAME Krzysztof /Wnęk/
+2 TYPE birth
 2 GIVN Krzysztof
 2 SURN Wnęk
 1 SEX M
@@ -3367,6 +3612,7 @@
 3 TIME 14:41:36
 0 @I0272@ INDI
 1 NAME Julia /Wnęk/
+2 TYPE birth
 2 GIVN Julia
 2 SURN Wnęk
 1 SEX F
@@ -3379,6 +3625,7 @@
 3 TIME 14:41:36
 0 @I0273@ INDI
 1 NAME Grzegorz /Pinkowicz/
+2 TYPE birth
 2 GIVN Grzegorz
 2 SURN Pinkowicz
 1 SEX M
@@ -3388,6 +3635,7 @@
 3 TIME 15:07:37
 0 @I0274@ INDI
 1 NAME Benedykt /Pinkowicz/
+2 TYPE birth
 2 GIVN Benedykt
 2 SURN Pinkowicz
 1 SEX M
@@ -3398,6 +3646,7 @@
 3 TIME 15:07:37
 0 @I0275@ INDI
 1 NAME Józef /Pinkowicz/
+2 TYPE birth
 2 GIVN Józef
 2 SURN Pinkowicz
 1 SEX M
@@ -3408,6 +3657,7 @@
 3 TIME 15:07:37
 0 @I0276@ INDI
 1 NAME Jan /Pinkowicz/
+2 TYPE birth
 2 GIVN Jan
 2 SURN Pinkowicz
 1 SEX M
@@ -3418,6 +3668,7 @@
 3 TIME 15:07:37
 0 @I0277@ INDI
 1 NAME Zofia /Pinkowicz/
+2 TYPE birth
 2 GIVN Zofia
 2 SURN Pinkowicz
 1 SEX F
@@ -3428,6 +3679,7 @@
 3 TIME 15:07:37
 0 @I0278@ INDI
 1 NAME Sanisław /Gołyźniak/
+2 TYPE birth
 2 GIVN Sanisław
 2 SURN Gołyźniak
 1 SEX M
@@ -3441,6 +3693,7 @@
 3 TIME 19:52:38
 0 @I0279@ INDI
 1 NAME Łukasz /Gołyźniak/
+2 TYPE birth
 2 GIVN Łukasz
 2 SURN Gołyźniak
 1 SEX M
@@ -3453,6 +3706,7 @@
 3 TIME 19:53:18
 0 @I0280@ INDI
 1 NAME Piotr /Zych/
+2 TYPE birth
 2 GIVN Piotr
 2 SURN Zych
 1 SEX M
@@ -3468,6 +3722,7 @@
 3 TIME 20:26:48
 0 @I0281@ INDI
 1 NAME Miłosz /Rogiewicz/
+2 TYPE birth
 2 GIVN Miłosz
 2 SURN Rogiewicz
 1 SEX M
@@ -3478,6 +3733,7 @@
 3 TIME 08:52:54
 0 @I0282@ INDI
 1 NAME Ewelina /Kmiecik/
+2 TYPE birth
 2 GIVN Ewelina
 2 SURN Kmiecik
 1 SEX F
@@ -3489,6 +3745,7 @@
 3 TIME 12:35:06
 0 @I0283@ INDI
 1 NAME Filip /Czarnik/
+2 TYPE birth
 2 GIVN Filip
 2 SURN Czarnik
 1 SEX M
@@ -3501,6 +3758,7 @@
 3 TIME 12:30:46
 0 @I0284@ INDI
 1 NAME Stanisław /Sulak/
+2 TYPE birth
 2 GIVN Stanisław
 2 SURN Sulak
 1 SEX M
@@ -3512,6 +3770,7 @@
 3 TIME 12:33:54
 0 @I0285@ INDI
 1 NAME  /Sulak/
+2 TYPE birth
 2 SURN Sulak
 1 SEX M
 1 BIRT
@@ -3523,6 +3782,7 @@
 3 TIME 12:33:23
 0 @I0286@ INDI
 1 NAME Teresa /Mocha/
+2 TYPE birth
 2 GIVN Teresa
 2 SURN Mocha
 1 SEX F
@@ -3534,6 +3794,7 @@
 3 TIME 16:32:58
 0 @I0287@ INDI
 1 NAME Edward //
+2 TYPE birth
 2 GIVN Edward
 1 SEX M
 1 FAMC @F0099@
@@ -3544,6 +3805,7 @@
 3 TIME 16:33:39
 0 @I0288@ INDI
 1 NAME Władysław /Mocha/
+2 TYPE birth
 2 GIVN Władysław
 2 SURN Mocha
 1 SEX M
@@ -3553,6 +3815,7 @@
 3 TIME 16:32:58
 0 @I0289@ INDI
 1 NAME Małgorzata //
+2 TYPE birth
 2 GIVN Małgorzata
 1 SEX F
 1 FAMC @F0100@
@@ -3563,6 +3826,7 @@
 3 TIME 16:33:55
 0 @I0290@ INDI
 1 NAME Barbara //
+2 TYPE birth
 2 GIVN Barbara
 1 SEX F
 1 FAMC @F0100@
@@ -3573,6 +3837,7 @@
 3 TIME 16:36:28
 0 @I0291@ INDI
 1 NAME Agnieszka //
+2 TYPE birth
 2 GIVN Agnieszka
 1 SEX F
 1 FAMC @F0100@
@@ -3583,6 +3848,7 @@
 3 TIME 16:37:30
 0 @I0292@ INDI
 1 NAME Danuta //
+2 TYPE birth
 2 GIVN Danuta
 1 SEX F
 1 FAMS @F0101@
@@ -3591,6 +3857,7 @@
 3 TIME 16:33:39
 0 @I0293@ INDI
 1 NAME Piotr //
+2 TYPE birth
 2 GIVN Piotr
 1 SEX M
 1 FAMC @F0101@
@@ -3601,6 +3868,7 @@
 3 TIME 16:37:55
 0 @I0294@ INDI
 1 NAME Anna //
+2 TYPE birth
 2 GIVN Anna
 1 SEX F
 1 FAMC @F0101@
@@ -3610,6 +3878,7 @@
 3 TIME 16:33:39
 0 @I0295@ INDI
 1 NAME Mirosław //
+2 TYPE birth
 2 GIVN Mirosław
 1 SEX M
 1 FAMC @F0101@
@@ -3619,6 +3888,7 @@
 3 TIME 16:33:39
 0 @I0296@ INDI
 1 NAME Wiktoria //
+2 TYPE birth
 2 GIVN Wiktoria
 1 SEX F
 1 FAMC @F0102@
@@ -3628,6 +3898,7 @@
 3 TIME 16:36:50
 0 @I0297@ INDI
 1 NAME Mariusz /Kucaj/
+2 TYPE birth
 2 GIVN Mariusz
 2 SURN Kucaj
 1 SEX M
@@ -3637,6 +3908,7 @@
 3 TIME 16:36:28
 0 @I0298@ INDI
 1 NAME Zuzanna /Kucaj/
+2 TYPE birth
 2 GIVN Zuzanna
 2 SURN Kucaj
 1 SEX F
@@ -3647,6 +3919,7 @@
 3 TIME 16:36:28
 0 @I0299@ INDI
 1 NAME Zbigniew //
+2 TYPE birth
 2 GIVN Zbigniew
 1 SEX M
 1 FAMS @F0102@
@@ -3655,6 +3928,7 @@
 3 TIME 16:36:50
 0 @I0300@ INDI
 1 NAME Wojciech /Kuźniar/
+2 TYPE birth
 2 GIVN Wojciech
 2 SURN Kuźniar
 1 SEX M
@@ -3664,6 +3938,7 @@
 3 TIME 16:37:30
 0 @I0301@ INDI
 1 NAME Mikołaj /Kuźniar/
+2 TYPE birth
 2 GIVN Mikołaj
 2 SURN Kuźniar
 1 SEX M
@@ -3674,6 +3949,7 @@
 3 TIME 16:37:30
 0 @I0302@ INDI
 1 NAME Kornelia //
+2 TYPE birth
 2 GIVN Kornelia
 1 SEX F
 1 FAMS @F0105@
@@ -3682,6 +3958,7 @@
 3 TIME 16:37:55
 0 @I0303@ INDI
 1 NAME Monika //
+2 TYPE birth
 2 GIVN Monika
 1 SEX F
 1 FAMC @F0105@
@@ -4400,9 +4677,10 @@
 1 WIFE @I0261@
 1 CHIL @I0262@
 1 CHIL @I0263@
+1 CHIL @I0083@
 1 CHAN
-2 DATE 30 OCT 2023
-3 TIME 10:46:38
+2 DATE 12 OCT 2024
+3 TIME 13:27:21
 0 @F0088@ FAM
 1 HUSB @I0100@
 1 WIFE @I0264@
