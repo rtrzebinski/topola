@@ -2,11 +2,11 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 12 OCT 2024
-2 TIME 13:27:50
+1 DATE 20 DEC 2025
+2 TIME 13:47:40
 1 SUBM @SUBM@
-1 FILE /Users/robert/projects/topola/Untitled_1.ged
-1 COPR Copyright (c) 2024 .
+1 FILE /Users/robert/projects/topola/Untitled_2.ged
+1 COPR Copyright (c) 2025 .
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -2081,6 +2081,18 @@
 1 CHAN
 2 DATE 8 MAR 2023
 3 TIME 07:43:16
+0 @I0143@ INDI
+1 NAME Franciszek /Trzebiński/
+2 TYPE birth
+2 GIVN Franciszek
+2 SURN Trzebiński
+1 SEX M
+1 DEAT
+2 PLAC Boryszypy
+1 FAMS @F0106@
+1 CHAN
+2 DATE 20 DEC 2025
+3 TIME 13:44:32
 0 @I0144@ INDI
 1 NAME Katarzyna /Jarzębska/
 2 TYPE birth
@@ -2121,6 +2133,25 @@
 1 CHAN
 2 DATE 8 MAR 2023
 3 TIME 11:51:00
+0 @I0148@ INDI
+1 NAME Jadwiga //
+2 TYPE birth
+2 GIVN Jadwiga
+1 SEX F
+1 FAMS @F0106@
+1 CHAN
+2 DATE 20 DEC 2025
+3 TIME 13:41:15
+0 @I0149@ INDI
+1 NAME Ignacy /Matusiak/
+2 TYPE birth
+2 GIVN Ignacy
+2 SURN Matusiak
+1 SEX M
+1 FAMS @F0107@
+1 CHAN
+2 DATE 20 DEC 2025
+3 TIME 13:42:41
 0 @I0150@ INDI
 1 NAME Paweł /Staniszewski/
 2 TYPE birth
@@ -2257,26 +2288,35 @@
 2 SURN Trzebiński
 1 SEX M
 1 BIRT
-2 DATE 11 APR 1861
-2 PLAC Rdutów
+2 DATE 6 APR 1861
+2 PLAC Boryszypy
 1 DEAT
 2 DATE 26 OCT 1937
+1 BAPM
+2 DATE 7 APR 1861
+2 PLAC Rdutów
+2 NOTE @N0003@
 1 FAMC @F0056@
 2 PEDI birth
 1 FAMS @F0055@
 1 CHAN
-2 DATE 11 MAR 2023
-3 TIME 17:15:49
+2 DATE 20 DEC 2025
+3 TIME 13:37:48
 0 @I0160@ INDI
 1 NAME Marcin /Trzebiński/
 2 TYPE birth
 2 GIVN Marcin
 2 SURN Trzebiński
 1 SEX M
+1 BIRT
+2 DATE 1833
+2 PLAC Bardzinek
+1 FAMC @F0106@
+2 PEDI birth
 1 FAMS @F0056@
 1 CHAN
-2 DATE 8 MAR 2023
-3 TIME 19:09:32
+2 DATE 20 DEC 2025
+3 TIME 13:41:15
 0 @I0161@ INDI
 1 NAME Maria /Trzebińska/
 2 TYPE birth
@@ -2611,6 +2651,16 @@
 1 CHAN
 2 DATE 4 NOV 2023
 3 TIME 13:41:47
+0 @I0189@ INDI
+1 NAME Jadwiga /Matusiak/
+2 TYPE birth
+2 GIVN Jadwiga
+2 SURN Matusiak
+1 SEX F
+1 FAMS @F0107@
+1 CHAN
+2 DATE 20 DEC 2025
+3 TIME 13:42:41
 0 @I0190@ INDI
 1 NAME Bronisława /Mendycka/
 2 TYPE birth
@@ -3406,10 +3456,15 @@
 2 GIVN Konstancja
 2 SURN Trzebińska
 1 SEX F
+1 BIRT
+2 DATE 1839
+2 PLAC Boryszypy
+1 FAMC @F0107@
+2 PEDI birth
 1 FAMS @F0056@
 1 CHAN
-2 DATE 11 MAR 2023
-3 TIME 17:14:04
+2 DATE 20 DEC 2025
+3 TIME 13:42:41
 0 @I0255@ INDI
 1 NAME Antonina /Trzebińska/
 2 TYPE birth
@@ -4810,7 +4865,28 @@
 1 CHAN
 2 DATE 2 DEC 2023
 3 TIME 16:37:55
+0 @F0106@ FAM
+1 HUSB @I0143@
+1 WIFE @I0148@
+1 CHIL @I0160@
+1 CHAN
+2 DATE 20 DEC 2025
+3 TIME 13:41:15
+0 @F0107@ FAM
+1 HUSB @I0149@
+1 WIFE @I0189@
+1 CHIL @I0254@
+1 CHAN
+2 DATE 20 DEC 2025
+3 TIME 13:42:41
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
+0 @N0003@ NOTE Chrzestni: Józef Imaś i Urszula Imaś.
+1 CONT 
+1 CONT Świadkowie zgłoszenia:
+1 CONT 
+1 CONT Józef Imaś (lat 40) – komornik (lokator/najemca) w Boryszypach.
+1 CONT 
+1 CONT Maciej Pawlak (lat 40) – komornik w Boryszypach.
 0 TRLR
