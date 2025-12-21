@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 21 DEC 2025
-2 TIME 09:59:44
+2 TIME 10:47:19
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -124,8 +124,8 @@
 1 FAMS @F0003@
 1 FAMS @F0038@
 1 CHAN
-2 DATE 11 MAR 2023
-3 TIME 17:21:05
+2 DATE 21 DEC 2025
+3 TIME 10:16:33
 0 @I0006@ INDI
 1 NAME Kazimiera /Trzebińska/
 2 TYPE birth
@@ -2152,10 +2152,13 @@
 2 GIVN Ignacy
 2 SURN Matusiak
 1 SEX M
+1 FACT Gospodarz
+2 TYPE Occupation
+2 NOTE @N0011@
 1 FAMS @F0107@
 1 CHAN
-2 DATE 20 DEC 2025
-3 TIME 13:42:41
+2 DATE 21 DEC 2025
+3 TIME 10:03:19
 0 @I0150@ INDI
 1 NAME Paweł /Staniszewski/
 2 TYPE birth
@@ -2339,8 +2342,8 @@
 1 FAMC @F0055@
 2 PEDI birth
 1 CHAN
-2 DATE 4 NOV 2023
-3 TIME 13:54:51
+2 DATE 21 DEC 2025
+3 TIME 10:16:33
 0 @I0162@ INDI
 1 NAME Leonard /Trzebiński/
 2 TYPE birth
@@ -2355,8 +2358,8 @@
 2 PEDI birth
 1 FAMS @F0057@
 1 CHAN
-2 DATE 4 NOV 2023
-3 TIME 13:49:12
+2 DATE 21 DEC 2025
+3 TIME 10:16:33
 0 @I0163@ INDI
 1 NAME Ignacy /Trzebiński/
 2 TYPE birth
@@ -2367,8 +2370,8 @@
 2 PEDI birth
 1 FAMS @F0058@
 1 CHAN
-2 DATE 11 MAR 2023
-3 TIME 17:05:06
+2 DATE 21 DEC 2025
+3 TIME 10:16:33
 0 @I0164@ INDI
 1 NAME Barbara /Trzebińska/
 2 TYPE birth
@@ -3478,19 +3481,23 @@
 2 DATE 21 DEC 2025
 3 TIME 09:47:58
 0 @I0255@ INDI
-1 NAME Antonina /Trzebińska/
+1 NAME Antonina /Kowalczyk/
 2 TYPE birth
 2 GIVN Antonina
-2 SURN Trzebińska
+2 SURN Kowalczyk
 1 SEX F
 1 BIRT
 2 DATE 1864
+2 PLAC Dzierżbice
+3 NOTE @N0012@
 1 DEAT
 2 DATE 21 NOV 1936
+1 FAMC @F0108@
+2 PEDI birth
 1 FAMS @F0055@
 1 CHAN
-2 DATE 4 NOV 2023
-3 TIME 14:10:12
+2 DATE 21 DEC 2025
+3 TIME 10:32:14
 0 @I0256@ INDI
 1 NAME Scott /Schofield/
 2 TYPE birth
@@ -3627,6 +3634,16 @@
 1 CHAN
 2 DATE 30 OCT 2023
 3 TIME 10:48:47
+0 @I0267@ INDI
+1 NAME Andrzej /Kowalczyk/
+2 TYPE birth
+2 GIVN Andrzej
+2 SURN Kowalczyk
+1 SEX M
+1 FAMS @F0108@
+1 CHAN
+2 DATE 21 DEC 2025
+3 TIME 10:32:14
 0 @I0268@ INDI
 1 NAME Pamela /Stefańczak/
 2 TYPE birth
@@ -4033,6 +4050,16 @@
 1 CHAN
 2 DATE 2 DEC 2023
 3 TIME 16:37:55
+0 @I0304@ INDI
+1 NAME Katarzyna /Kołodziejczak/
+2 TYPE birth
+2 GIVN Katarzyna
+2 SURN Kołodziejczak
+1 SEX F
+1 FAMS @F0108@
+1 CHAN
+2 DATE 21 DEC 2025
+3 TIME 10:32:14
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -4473,13 +4500,17 @@
 0 @F0055@ FAM
 1 HUSB @I0159@
 1 WIFE @I0255@
+1 MARR
+2 DATE 25 FEB 1884
+2 PLAC Dzierżbice
+3 NOTE @N0012@
 1 CHIL @I0005@
 1 CHIL @I0161@
 1 CHIL @I0162@
 1 CHIL @I0163@
 1 CHAN
-2 DATE 11 MAR 2023
-3 TIME 17:05:06
+2 DATE 21 DEC 2025
+3 TIME 10:16:33
 0 @F0056@ FAM
 1 HUSB @I0160@
 1 WIFE @I0254@
@@ -4894,6 +4925,13 @@
 1 CHAN
 2 DATE 20 DEC 2025
 3 TIME 13:42:41
+0 @F0108@ FAM
+1 HUSB @I0267@
+1 WIFE @I0304@
+1 CHIL @I0255@
+1 CHAN
+2 DATE 21 DEC 2025
+3 TIME 10:32:14
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
@@ -4925,4 +4963,10 @@
 1 CONC 1 - 26 = 1835$.Różnica 4 lat to bardzo dużo w poszukiwaniach! Szukając r
 1 CONC ocznika 1839, mogłeś przegapić jej metrykę z 1835.
 0 @N0009@ NOTE powiat kolski
+0 @N0010@ NOTE W akcie ślubu córki (1860) określony jako GOSPODARZ (lub Włościanin
+1 CONC ).
+0 @N0011@ NOTE W akcie ślubu córki (1860) określony jako GOSPODARZ (lub Włościanin
+1 CONC ).
+0 @N0012@ NOTE To wieś w województwie wielkopolskim, w powiecie kolskim, w gmini
+1 CONC e Chodów.
 0 TRLR
