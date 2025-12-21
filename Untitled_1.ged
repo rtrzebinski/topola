@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 21 DEC 2025
-2 TIME 12:33:08
+2 TIME 12:51:45
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -119,6 +119,7 @@
 4 LONG E19.147542
 1 DEAT
 2 DATE 27 NOV 1965
+2 PLAC Włocławek
 1 FAMC @F0055@
 2 PEDI birth
 1 FAMS @F0003@
@@ -137,6 +138,7 @@
 2 PLAC Marianki
 1 DEAT
 2 DATE 5 MAY 2011
+2 PLAC Włocławek
 1 FAMC @F0110@
 2 PEDI birth
 1 FAMS @F0003@
