@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 21 DEC 2025
-2 TIME 10:47:19
+2 TIME 12:33:08
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -127,20 +127,22 @@
 2 DATE 21 DEC 2025
 3 TIME 10:16:33
 0 @I0006@ INDI
-1 NAME Kazimiera /Trzebińska/
+1 NAME Kazimiera /Fornalewicz/
 2 TYPE birth
 2 GIVN Kazimiera
-2 SURN Trzebińska
+2 SURN Fornalewicz
 1 SEX F
 1 BIRT
 2 DATE 23 FEB 1914
 2 PLAC Marianki
 1 DEAT
 2 DATE 5 MAY 2011
+1 FAMC @F0110@
+2 PEDI birth
 1 FAMS @F0003@
 1 CHAN
-2 DATE 4 NOV 2023
-3 TIME 13:56:50
+2 DATE 21 DEC 2025
+3 TIME 12:27:32
 0 @I0007@ INDI
 1 NAME Karol /Staniszewski/
 2 TYPE birth
@@ -2259,19 +2261,22 @@
 2 DATE 4 NOV 2023
 3 TIME 15:07:37
 0 @I0157@ INDI
-1 NAME Stanisława /Trzebińska/
+1 NAME Stanisława /Fornalewicz/
 2 TYPE birth
 2 GIVN Stanisława
-2 SURN Trzebińska
+2 SURN Fornalewicz
 1 SEX F
 1 BIRT
-2 DATE 1899
+2 DATE 4 SEP 1903
+2 PLAC Marianki
 1 DEAT
 2 DATE 26 OCT 1935
+1 FAMC @F0109@
+2 PEDI birth
 1 FAMS @F0038@
 1 CHAN
-2 DATE 4 NOV 2023
-3 TIME 13:45:15
+2 DATE 21 DEC 2025
+3 TIME 12:15:10
 0 @I0158@ INDI
 1 NAME Wacław /Trzebiński/
 2 TYPE birth
@@ -2317,7 +2322,7 @@
 2 SURN Trzebiński
 1 SEX M
 1 BIRT
-2 DATE ok. 1833
+2 DATE ~1833
 2 PLAC Bardzinek
 2 NOTE @N0005@
 1 FACT Parobek / Komornik
@@ -3469,7 +3474,7 @@
 2 SURN Matusiak
 1 SEX F
 1 BIRT
-2 DATE ok. 1839
+2 DATE ~1839
 2 PLAC Głogowa
 3 NOTE @N0009@
 2 NOTE @N0008@
@@ -4060,6 +4065,43 @@
 1 CHAN
 2 DATE 21 DEC 2025
 3 TIME 10:32:14
+0 @I0305@ INDI
+1 NAME Wawrzyniec /Fornalewicz/
+2 TYPE birth
+2 GIVN Wawrzyniec
+2 SURN Fornalewicz
+1 SEX M
+1 BIRT
+2 DATE ~1849
+1 FAMS @F0109@
+1 FAMS @F0110@
+1 CHAN
+2 DATE 21 DEC 2025
+3 TIME 12:27:32
+0 @I0306@ INDI
+1 NAME Franciszka /Gapińska/
+2 TYPE birth
+2 GIVN Franciszka
+2 SURN Gapińska
+1 SEX F
+1 BIRT
+2 DATE ~1858
+1 FAMS @F0109@
+1 CHAN
+2 DATE 21 DEC 2025
+3 TIME 12:15:10
+0 @I0307@ INDI
+1 NAME Agnieszka /Podolska/
+2 TYPE birth
+2 GIVN Agnieszka
+2 SURN Podolska
+1 SEX F
+1 BIRT
+2 DATE ~1875
+1 FAMS @F0110@
+1 CHAN
+2 DATE 21 DEC 2025
+3 TIME 12:27:32
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -4932,6 +4974,20 @@
 1 CHAN
 2 DATE 21 DEC 2025
 3 TIME 10:32:14
+0 @F0109@ FAM
+1 HUSB @I0305@
+1 WIFE @I0306@
+1 CHIL @I0157@
+1 CHAN
+2 DATE 21 DEC 2025
+3 TIME 12:15:10
+0 @F0110@ FAM
+1 HUSB @I0305@
+1 WIFE @I0307@
+1 CHIL @I0006@
+1 CHAN
+2 DATE 21 DEC 2025
+3 TIME 12:27:32
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
