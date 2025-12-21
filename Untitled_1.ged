@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 21 DEC 2025
-2 TIME 12:55:08
+2 TIME 12:58:06
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -96,6 +96,7 @@
 1 SEX M
 1 BIRT
 2 DATE 4 JUN 1937
+2 PLAC Włocławek
 1 DEAT
 2 DATE 17 JAN 2011
 2 PLAC Przecław
