@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 20 DEC 2025
-2 TIME 14:41:21
+1 DATE 21 DEC 2025
+2 TIME 09:59:44
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -2088,7 +2088,8 @@
 2 SURN Trzebiński
 1 SEX M
 1 DEAT
-2 PLAC Boryszypy
+2 PLAC Borysławice Kościelne
+3 NOTE @N0004@
 1 FACT Tkacz
 2 TYPE Occupation
 1 FAMS @F0106@
@@ -2136,14 +2137,15 @@
 2 DATE 8 MAR 2023
 3 TIME 11:51:00
 0 @I0148@ INDI
-1 NAME Jadwiga //
+1 NAME Jadwiga /Tomczak/
 2 TYPE birth
 2 GIVN Jadwiga
+2 SURN Tomczak
 1 SEX F
 1 FAMS @F0106@
 1 CHAN
-2 DATE 20 DEC 2025
-3 TIME 13:41:15
+2 DATE 21 DEC 2025
+3 TIME 09:58:11
 0 @I0149@ INDI
 1 NAME Ignacy /Matusiak/
 2 TYPE birth
@@ -2291,7 +2293,8 @@
 1 SEX M
 1 BIRT
 2 DATE 6 APR 1861
-2 PLAC Boryszypy
+2 PLAC Borysławice Kościelne
+3 NOTE @N0004@
 1 DEAT
 2 DATE 26 OCT 1937
 1 BAPM
@@ -2311,16 +2314,18 @@
 2 SURN Trzebiński
 1 SEX M
 1 BIRT
-2 DATE 1833–1835
+2 DATE ok. 1833
 2 PLAC Bardzinek
-1 FACT Parobek
+2 NOTE @N0005@
+1 FACT Parobek / Komornik
 2 TYPE Occupation
+2 NOTE @N0006@
 1 FAMC @F0106@
 2 PEDI birth
 1 FAMS @F0056@
 1 CHAN
-2 DATE 20 DEC 2025
-3 TIME 13:54:47
+2 DATE 21 DEC 2025
+3 TIME 09:35:44
 0 @I0161@ INDI
 1 NAME Maria /Trzebińska/
 2 TYPE birth
@@ -2656,15 +2661,15 @@
 2 DATE 4 NOV 2023
 3 TIME 13:41:47
 0 @I0189@ INDI
-1 NAME Jadwiga /Matusiak/
+1 NAME Jadwiga /Domżał/
 2 TYPE birth
 2 GIVN Jadwiga
-2 SURN Matusiak
+2 SURN Domżał
 1 SEX F
 1 FAMS @F0107@
 1 CHAN
-2 DATE 20 DEC 2025
-3 TIME 13:42:41
+2 DATE 21 DEC 2025
+3 TIME 09:59:13
 0 @I0190@ INDI
 1 NAME Bronisława /Mendycka/
 2 TYPE birth
@@ -3455,20 +3460,23 @@
 2 DATE 11 MAR 2023
 3 TIME 16:56:34
 0 @I0254@ INDI
-1 NAME Konstancja /Trzebińska/
+1 NAME Konstancja /Matusiak/
 2 TYPE birth
 2 GIVN Konstancja
-2 SURN Trzebińska
+2 SURN Matusiak
 1 SEX F
 1 BIRT
-2 DATE 1839
-2 PLAC Boryszypy
+2 DATE ok. 1839
+2 PLAC Głogowa
+3 NOTE @N0009@
+2 NOTE @N0008@
 1 FAMC @F0107@
 2 PEDI birth
 1 FAMS @F0056@
+1 NOTE @N0007@
 1 CHAN
-2 DATE 20 DEC 2025
-3 TIME 13:42:41
+2 DATE 21 DEC 2025
+3 TIME 09:47:58
 0 @I0255@ INDI
 1 NAME Antonina /Trzebińska/
 2 TYPE birth
@@ -4896,4 +4904,25 @@
 1 CONT Józef Imaś (lat 40) – komornik (lokator/najemca) w Boryszypach.
 1 CONT 
 1 CONT Maciej Pawlak (lat 40) – komornik w Boryszypach.
+0 @N0004@ NOTE W aktach zapisywane jako Boryszyny
+0 @N0005@ NOTE Dowód: W akcie urodzenia syna (1861) ma "lat dwadzieścia ośm" (28)
+1 CONC . $1861 - 28 = 1833$. To precyzuje datę.
+0 @N0006@ NOTE W akcie z 1861 roku jest wpisany jako "Komornik w Boryszynach zamie
+1 CONC szkały". Oznacza to chłopa bezrolnego, wynajmującego izbę.
+0 @N0007@ NOTE Dlaczego Matusiak?
+1 CONT 
+1 CONT W akcie urodzenia syna (1861) jest zapisana jako "z Matuszczonków". Końc
+1 CONC ówka "-onka" oznacza córkę Matuszka, Matuszaka lub Matusiaka.
+1 CONT 
+1 CONT W Twoim drzewie jej ojciec to Ignacy Matusiak. Żeby program połączył ic
+1 CONC h jako rodzinę, ona też musi mieć nazwisko rodowe Matusiak.
+1 CONT 
+1 CONT Nazwisko Matulska (z aktu ślubu 1860) dodaj w zakładce "Names" (Nazwy) j
+1 CONC ako "Also Known As" (Znana również jako) lub w notatce. To częsta wariac
+1 CONC ja, ale Matusiak jest formą podstawową pasującą do ojca.
+0 @N0008@ NOTE Dlaczego?W akcie urodzenia Stanisława z 7 kwietnia 1861 roku ksiąd
+1 CONC z zapisał wyraźnie: "lat Dwadzieścia szesc mającej".Matematyka: $186
+1 CONC 1 - 26 = 1835$.Różnica 4 lat to bardzo dużo w poszukiwaniach! Szukając r
+1 CONC ocznika 1839, mogłeś przegapić jej metrykę z 1835.
+0 @N0009@ NOTE powiat kolski
 0 TRLR
