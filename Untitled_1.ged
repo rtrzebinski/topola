@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 21 DEC 2025
-2 TIME 13:04:30
+2 TIME 13:06:43
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -164,10 +164,10 @@
 2 DATE 8 MAR 2023
 3 TIME 13:33:03
 0 @I0008@ INDI
-1 NAME Agnieszka /Staniszewska/
+1 NAME Agnieszka /Mendycka/
 2 TYPE birth
 2 GIVN Agnieszka
-2 SURN Staniszewska
+2 SURN Mendycka
 1 SEX F
 1 BIRT
 2 DATE 15 AUG 1909
@@ -178,8 +178,8 @@
 2 PEDI birth
 1 FAMS @F0004@
 1 CHAN
-2 DATE 8 MAR 2023
-3 TIME 13:43:40
+2 DATE 21 DEC 2025
+3 TIME 13:05:22
 0 @I0009@ INDI
 1 NAME Natalia /Trzebińska/
 2 TYPE birth
@@ -2112,15 +2112,14 @@
 2 DATE 8 MAR 2023
 3 TIME 07:31:58
 0 @I0145@ INDI
-1 NAME Anna /Staniszewska/
+1 NAME Anna //
 2 TYPE birth
 2 GIVN Anna
-2 SURN Staniszewska
 1 SEX F
 1 FAMS @F0010@
 1 CHAN
-2 DATE 8 MAR 2023
-3 TIME 11:43:20
+2 DATE 21 DEC 2025
+3 TIME 13:05:56
 0 @I0146@ INDI
 1 NAME Karol /Mendycki/
 2 TYPE birth
@@ -2132,15 +2131,14 @@
 2 DATE 8 MAR 2023
 3 TIME 11:51:00
 0 @I0147@ INDI
-1 NAME Anna /Mendycka/
+1 NAME Anna //
 2 TYPE birth
 2 GIVN Anna
-2 SURN Mendycka
 1 SEX F
 1 FAMS @F0053@
 1 CHAN
-2 DATE 8 MAR 2023
-3 TIME 11:51:00
+2 DATE 21 DEC 2025
+3 TIME 13:06:10
 0 @I0148@ INDI
 1 NAME Jadwiga /Tomczak/
 2 TYPE birth
