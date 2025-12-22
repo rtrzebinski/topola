@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 22 DEC 2025
-2 TIME 09:07:10
+2 TIME 09:12:03
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -2320,7 +2320,7 @@
 2 SURN Trzybiński
 1 SEX M
 1 BIRT
-2 DATE EST 1835
+2 DATE EST 1833
 2 PLAC Barchlin
 2 NOTE @N0005@
 1 FACT tkacz (w 1860 i 1861) , później służący (w 1884)
@@ -3497,10 +3497,12 @@
 2 DATE 21 NOV 1936
 1 FAMC @F0108@
 2 PEDI birth
+1 FAMC @F0116@
+2 PEDI birth
 1 FAMS @F0055@
 1 CHAN
-2 DATE 21 DEC 2025
-3 TIME 10:32:14
+2 DATE 22 DEC 2025
+3 TIME 09:10:03
 0 @I0256@ INDI
 1 NAME Scott /Schofield/
 2 TYPE birth
@@ -3637,16 +3639,6 @@
 1 CHAN
 2 DATE 30 OCT 2023
 3 TIME 10:48:47
-0 @I0267@ INDI
-1 NAME Andrzej /Kowalczyk/
-2 TYPE birth
-2 GIVN Andrzej
-2 SURN Kowalczyk
-1 SEX M
-1 FAMS @F0108@
-1 CHAN
-2 DATE 21 DEC 2025
-3 TIME 10:32:14
 0 @I0268@ INDI
 1 NAME Pamela /Stefańczak/
 2 TYPE birth
@@ -4053,16 +4045,6 @@
 1 CHAN
 2 DATE 2 DEC 2023
 3 TIME 16:37:55
-0 @I0304@ INDI
-1 NAME Katarzyna /Kołodziejczak/
-2 TYPE birth
-2 GIVN Katarzyna
-2 SURN Kołodziejczak
-1 SEX F
-1 FAMS @F0108@
-1 CHAN
-2 DATE 21 DEC 2025
-3 TIME 10:32:14
 0 @I0305@ INDI
 1 NAME Wawrzyniec /Fornalewicz/
 2 TYPE birth
@@ -4107,7 +4089,7 @@
 2 SURN Dorożała
 1 SEX F
 1 BIRT
-2 DATE EST 1836
+2 DATE EST 1835
 2 PLAC Głodno
 1 FAMC @F0113@
 2 PEDI birth
@@ -4148,6 +4130,26 @@
 1 CHAN
 2 DATE 22 DEC 2025
 3 TIME 08:02:01
+0 @I0312@ INDI
+1 NAME Mateusz /Kowalczyk/
+2 TYPE birth
+2 GIVN Mateusz
+2 SURN Kowalczyk
+1 SEX M
+1 FAMS @F0116@
+1 CHAN
+2 DATE 22 DEC 2025
+3 TIME 09:10:03
+0 @I0313@ INDI
+1 NAME Franciszka /Trzcińska/
+2 TYPE birth
+2 GIVN Franciszka
+2 SURN Trzcińska
+1 SEX F
+1 FAMS @F0116@
+1 CHAN
+2 DATE 22 DEC 2025
+3 TIME 09:10:03
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -5003,12 +5005,10 @@
 2 DATE 20 DEC 2025
 3 TIME 13:42:41
 0 @F0108@ FAM
-1 HUSB @I0267@
-1 WIFE @I0304@
 1 CHIL @I0255@
 1 CHAN
-2 DATE 21 DEC 2025
-3 TIME 10:32:14
+2 DATE 22 DEC 2025
+3 TIME 09:09:03
 0 @F0109@ FAM
 1 HUSB @I0305@
 1 WIFE @I0306@
@@ -5049,6 +5049,13 @@
 1 CHAN
 2 DATE 22 DEC 2025
 3 TIME 09:06:16
+0 @F0116@ FAM
+1 HUSB @I0312@
+1 WIFE @I0313@
+1 CHIL @I0255@
+1 CHAN
+2 DATE 22 DEC 2025
+3 TIME 09:10:03
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
