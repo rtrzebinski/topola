@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 22 DEC 2025
-2 TIME 09:30:30
+2 TIME 09:46:00
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -2312,7 +2312,7 @@
 1 FAMS @F0055@
 1 CHAN
 2 DATE 22 DEC 2025
-3 TIME 09:06:16
+3 TIME 09:45:26
 0 @I0160@ INDI
 1 NAME Marcin /Trzybiński/
 2 TYPE birth
@@ -5032,10 +5032,14 @@
 0 @F0114@ FAM
 1 HUSB @I0160@
 1 WIFE @I0308@
+1 MARR
+2 DATE 19 FEB 1960
+2 PLAC Rdutów
+2 NOTE @N0014@
 1 CHIL @I0159@
 1 CHAN
 2 DATE 22 DEC 2025
-3 TIME 09:06:16
+3 TIME 09:45:26
 0 @F0116@ FAM
 1 HUSB @I0312@
 1 WIFE @I0313@
@@ -5081,4 +5085,28 @@
 0 @N0012@ NOTE To wieś w województwie wielkopolskim, w powiecie kolskim, w gmini
 1 CONC e Chodów.
 0 @N0013@ NOTE Kaleń jako miejsce zamieszkania w dacie ślubu
+0 @N0014@ NOTE Szczegóły ślubu Marcina i Jadwigi (1860)
+1 CONT Ślub ten odbył się 19 lutego 1860 roku w parafii Rdutów o godzinie 13:00
+1 CONC .
+1 CONT 
+1 CONT Nowożeńcy:
+1 CONT 
+1 CONT Pan Młody: Marcin Trzybiński, kawaler, lat 25 (urodzony ok. 1835), urodz
+1 CONC ony w miejscowości Barchlin.
+1 CONT 
+1 CONT 
+1 CONT Panna Młoda: Jadwiga Dorożała, panna, lat 24 (urodzona ok. 1836), urodzo
+1 CONC na w miejscowości Głodno, mieszkająca w Bowyczynach przy matce.
+1 CONT 
+1 CONT Rodzice i przodkowie (Nowe dane do drzewa):
+1 CONT Dzięki temu dokumentowi poznajemy kolejne pokolenie Twoich przodków "p
+1 CONC o mieczu":
+1 CONT 
+1 CONT 
+1 CONT Rodzice Marcina: Franciszek Trzybiński (tkacz zamieszkały w Bowyczynach
+1 CONC ) oraz nieżyjąca już w 1860 roku Marianna z Tomalów.
+1 CONT 
+1 CONT 
+1 CONT Rodzice Jadwigi: Nieżyjący już Józef Dorożała (gospodarz) oraz Konstancj
+1 CONC a z Borowczyków.
 0 TRLR
