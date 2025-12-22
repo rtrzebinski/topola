@@ -3,9 +3,9 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 22 DEC 2025
-2 TIME 08:52:44
+2 TIME 09:07:10
 1 SUBM @SUBM@
-1 FILE /Users/robert/Desktop/Untitled_1.ged
+1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
 1 GEDC
 2 VERS 5.5.1
@@ -2312,7 +2312,7 @@
 1 FAMS @F0055@
 1 CHAN
 2 DATE 22 DEC 2025
-3 TIME 08:32:39
+3 TIME 09:06:16
 0 @I0160@ INDI
 1 NAME Marcin /Trzybiński/
 2 TYPE birth
@@ -2329,10 +2329,9 @@
 1 FAMC @F0112@
 2 PEDI birth
 1 FAMS @F0114@
-1 FAMS @F0115@
 1 CHAN
 2 DATE 22 DEC 2025
-3 TIME 08:36:28
+3 TIME 09:06:49
 0 @I0161@ INDI
 1 NAME Maria /Trzebińska/
 2 TYPE birth
@@ -3480,11 +3479,10 @@
 1 FAMC @F0107@
 2 PEDI birth
 1 FAMS @F0056@
-1 FAMS @F0115@
 1 NOTE @N0007@
 1 CHAN
 2 DATE 22 DEC 2025
-3 TIME 08:35:18
+3 TIME 09:06:49
 0 @I0255@ INDI
 1 NAME Antonina /Kowalczyk/
 2 TYPE birth
@@ -5050,13 +5048,7 @@
 1 CHIL @I0159@
 1 CHAN
 2 DATE 22 DEC 2025
-3 TIME 08:06:32
-0 @F0115@ FAM
-1 HUSB @I0160@
-1 WIFE @I0254@
-1 CHAN
-2 DATE 22 DEC 2025
-3 TIME 08:35:18
+3 TIME 09:06:16
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
