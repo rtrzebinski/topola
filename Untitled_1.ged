@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 23 DEC 2025
-2 TIME 11:14:43
+2 TIME 11:52:37
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -2336,7 +2336,7 @@
 1 FAMS @F0117@
 1 CHAN
 2 DATE 23 DEC 2025
-3 TIME 11:12:05
+3 TIME 11:52:29
 0 @I0161@ INDI
 1 NAME Maria /Trzebińska/
 2 TYPE birth
@@ -4602,9 +4602,10 @@
 1 HUSB @I0159@
 1 WIFE @I0255@
 1 MARR
-2 DATE 25 FEB 1884
+2 DATE 27 OCT 1884
 2 PLAC Dzierżbice
 3 NOTE @N0012@
+2 NOTE @N0015@
 1 CHIL @I0005@
 1 CHIL @I0161@
 1 CHIL @I0162@
@@ -5032,10 +5033,12 @@
 0 @F0112@ FAM
 1 HUSB @I0143@
 1 WIFE @I0309@
+1 MARR
+2 DATE BEF 1835
 1 CHIL @I0160@
 1 CHAN
-2 DATE 22 DEC 2025
-3 TIME 08:00:13
+2 DATE 23 DEC 2025
+3 TIME 11:52:29
 0 @F0113@ FAM
 1 HUSB @I0310@
 1 WIFE @I0311@
@@ -5132,4 +5135,29 @@
 1 CONT 
 1 CONT Rodzice Jadwigi: Nieżyjący już Józef Dorożała (gospodarz) oraz Konstancj
 1 CONC a z Borowczyków.
+0 @N0015@ NOTE Notatka genealogiczna: Podwójne datowanie w akcie ślubu z 1884 r.
+1 CONT Temat: Wyjaśnienie zapisu daty "piętnastego / dwudziestego siódmego Paźd
+1 CONC ziernika" w akcie ślubu Stanisława Trzybińskiego i Antoniny Kowalczyk.
+1 CONT 
+1 CONT Wyjaśnienie: Dokument ten powstał w zaborze rosyjskim (Królestwo Kongres
+1 CONC owe), gdzie w urzędach administracji państwowej obowiązywał kalendarz ju
+1 CONC liański (tzw. "stary styl"), używany w Rosji. Jednocześnie ludność polsk
+1 CONC a oraz Kościół Katolicki posługiwali się kalendarzem gregoriańskim (tzw
+1 CONC . "nowy styl"), powszechnym w Europie Zachodniej.
+1 CONT 
+1 CONT Aby uniknąć nieporozumień, urzędnicy stanu cywilnego mieli obowiązek pod
+1 CONC awania obu dat.
+1 CONT 
+1 CONT Pierwsza data (15 października): To data według kalendarza juliańskiego.
+1 CONT 
+1 CONT Druga data (27 października): To data według kalendarza gregoriańskieg
+1 CONC o (tego, którego używamy dzisiaj).
+1 CONT 
+1 CONT Różnica dni: W XIX wieku różnica między tymi kalendarzami wynosiła 12 dn
+1 CONC i. Obliczenie: 15 października + 12 dni = 27 października.
+1 CONT 
+1 CONT Wniosek dla potomnych: Właściwą datą rocznicy ślubu według naszego obecn
+1 CONC ego kalendarza jest 27 października 1884 roku. Zapis "15/27" nie oznacz
+1 CONC a wyboru ani niepewności, lecz precyzyjne wskazanie tego samego dnia w d
+1 CONC wóch różnych systemach rachuby czasu.
 0 TRLR
