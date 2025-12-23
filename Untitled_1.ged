@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 23 DEC 2025
-2 TIME 11:04:01
+2 TIME 11:14:43
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -2322,18 +2322,21 @@
 2 SURN Trzybiński
 1 SEX M
 1 BIRT
-2 DATE EST 1833
+2 DATE EST 1834
 2 PLAC Barchlin
 2 NOTE @N0005@
+1 DEAT
+2 DATE AFT 27 OCT 1884
 1 FACT tkacz (w 1860 i 1861) , później służący (w 1884)
 2 TYPE Occupation
 2 NOTE @N0006@
 1 FAMC @F0112@
 2 PEDI birth
 1 FAMS @F0114@
+1 FAMS @F0117@
 1 CHAN
-2 DATE 22 DEC 2025
-3 TIME 09:06:49
+2 DATE 23 DEC 2025
+3 TIME 11:12:05
 0 @I0161@ INDI
 1 NAME Maria /Trzebińska/
 2 TYPE birth
@@ -3481,10 +3484,11 @@
 1 FAMC @F0107@
 2 PEDI birth
 1 FAMS @F0056@
+1 FAMS @F0117@
 1 NOTE @N0007@
 1 CHAN
-2 DATE 22 DEC 2025
-3 TIME 09:06:49
+2 DATE 23 DEC 2025
+3 TIME 11:12:05
 0 @I0255@ INDI
 1 NAME Antonina /Kowalczyk/
 2 TYPE birth
@@ -4091,12 +4095,14 @@
 1 BIRT
 2 DATE EST 1835
 2 PLAC Głodno
+1 DEAT
+2 DATE BET 3 MAY 1861 AND 27 OCT 1884
 1 FAMC @F0113@
 2 PEDI birth
 1 FAMS @F0114@
 1 CHAN
-2 DATE 22 DEC 2025
-3 TIME 09:30:13
+2 DATE 23 DEC 2025
+3 TIME 11:14:22
 0 @I0309@ INDI
 1 NAME Marianna /Tomala/
 2 TYPE birth
@@ -5055,6 +5061,14 @@
 1 CHAN
 2 DATE 22 DEC 2025
 3 TIME 09:10:03
+0 @F0117@ FAM
+1 HUSB @I0160@
+1 WIFE @I0254@
+1 MARR
+2 DATE BET 1862 AND 1884
+1 CHAN
+2 DATE 23 DEC 2025
+3 TIME 11:13:13
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
@@ -5066,8 +5080,9 @@
 1 CONT 
 1 CONT Maciej Pawlak (lat 40) – komornik w Boryszypach.
 0 @N0004@ NOTE W aktach zapisywane jako Boryszyny
-0 @N0005@ NOTE Dowód: W akcie urodzenia syna (1861) ma "lat dwadzieścia ośm" (28)
-1 CONC . $1861 - 28 = 1833$. To precyzuje datę.
+0 @N0005@ NOTE Urodzenie: ok. 1834
+1 CONT 
+1 CONT Średnia z dwóch rozbieżnych dokumentów (1833 i 1835). 
 0 @N0006@ NOTE W akcie z 1861 roku jest wpisany jako "Komornik w Boryszynach zamie
 1 CONC szkały". Oznacza to chłopa bezrolnego, wynajmującego izbę.
 0 @N0007@ NOTE Dlaczego Matusiak?
