@@ -2,11 +2,11 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 23 DEC 2025
-2 TIME 11:52:37
+1 DATE 29 SEP 2026
+2 TIME 10:12:12
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
-1 COPR Copyright (c) 2025 .
+1 COPR Copyright (c) 2026 .
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -28,9 +28,10 @@
 4 LONG E14.5528
 1 FAMC @F0002@
 2 PEDI birth
+1 FAMS @F0118@
 1 CHAN
-2 DATE 4 MAR 2023
-3 TIME 07:17:34
+2 DATE 29 SEP 2026
+3 TIME 10:09:50
 0 @I0001@ INDI
 1 NAME Hanna /Noskiewicz/
 2 TYPE birth
@@ -4161,6 +4162,36 @@
 1 CHAN
 2 DATE 22 DEC 2025
 3 TIME 09:10:03
+0 @I0314@ INDI
+1 NAME Patrycja /Siejka/
+2 TYPE birth
+2 GIVN Patrycja
+2 SPFX Siejka
+1 SEX F
+1 BIRT
+2 DATE 17 JUL 2001
+2 PLAC Skierniewice
+1 FAMS @F0118@
+1 CHAN
+2 DATE 29 SEP 2026
+3 TIME 10:09:50
+0 @I0315@ INDI
+1 NAME Franciszek /Trzebiński/
+2 TYPE birth
+2 GIVN Franciszek
+2 SURN Trzebiński
+1 NAME Władysław //
+2 TYPE birth
+2 GIVN Władysław
+1 SEX M
+1 BIRT
+2 DATE 20 OCT 2026
+2 PLAC Gdańsk
+1 FAMC @F0118@
+2 PEDI birth
+1 CHAN
+2 DATE 29 SEP 2026
+3 TIME 10:11:07
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -5072,6 +5103,18 @@
 1 CHAN
 2 DATE 23 DEC 2025
 3 TIME 11:13:13
+0 @F0118@ FAM
+1 HUSB @I0000@
+1 WIFE @I0314@
+1 MARR
+2 DATE 15 MAY 2026
+2 PLAC Szczecin
+2 ADDR
+3 CITY Szczecin
+1 CHIL @I0315@
+1 CHAN
+2 DATE 29 SEP 2026
+3 TIME 10:09:50
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
