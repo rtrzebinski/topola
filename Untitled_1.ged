@@ -5448,4 +5448,139 @@
 2 PEDI birth
 1 CHAN
 2 DATE 30 SEP 2026
+0 @I0400@ INDI
+1 NAME Michał /Mendycki/
+2 TYPE birth
+2 GIVN Michał
+2 SURN Mendycki
+1 SEX M
+1 DEAT
+2 DATE 1887
+2 PLAC Drohobyczka
+2 SOUR Indeks zgonów Geneteka (Dubiecko, 1887, akt 15)
+1 FAMS @F0200@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0401@ INDI
+1 NAME Katarzyna /Kucel/
+2 TYPE birth
+2 GIVN Katarzyna
+2 SURN Kucel
+1 SEX F
+1 FAMC @F0202@
+2 PEDI birth
+1 FAMS @F0200@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0402@ INDI
+1 NAME Marcin /Żurawski/
+2 TYPE birth
+2 GIVN Marcin
+2 SURN Żurawski
+1 SEX M
+1 FACT rolnik
+2 TYPE Occupation
+1 FAMS @F0201@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0403@ INDI
+1 NAME Katarzyna /Brzezowska/
+2 TYPE birth
+2 GIVN Katarzyna
+2 SURN Brzezowska
+1 SEX F
+1 FAMC @F0203@
+2 PEDI birth
+1 FAMS @F0201@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0404@ INDI
+1 NAME Józef /Kucel/
+2 TYPE birth
+2 GIVN Józef
+2 SURN Kucel
+1 SEX M
+1 FAMS @F0202@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0405@ INDI
+1 NAME Katarzyna //
+2 TYPE birth
+2 GIVN Katarzyna
+1 SEX F
+1 FAMS @F0202@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0406@ INDI
+1 NAME Antoni /Brzezowski/
+2 TYPE birth
+2 GIVN Antoni
+2 SURN Brzezowski
+1 SEX M
+1 FAMS @F0203@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0407@ INDI
+1 NAME Magdalena /Dudziak/
+2 TYPE birth
+2 GIVN Magdalena
+2 SURN Dudziak
+1 SEX F
+1 FAMS @F0203@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0408@ INDI
+1 NAME Marianna /Mendycka/
+2 TYPE birth
+2 GIVN Marianna
+2 SURN Mendycka
+1 SEX F
+1 BIRT
+2 DATE 1873
+2 PLAC Drohobyczka
+2 SOUR Indeks urodzeń Geneteka (Dubiecko, 1873, akt 38)
+1 FAMC @F0200@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0409@ INDI
+1 NAME NN /Mendycka/
+2 TYPE birth
+2 GIVN NN
+2 SURN Mendycka
+1 SEX F
+1 BIRT
+2 DATE 1872
+2 PLAC Drohobyczka
+2 SOUR Indeks urodzeń Geneteka (Dubiecko, 1872, akt 39)
+1 FAMC @F0200@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+0 @F0200@ FAM
+1 HUSB @I0400@
+1 WIFE @I0401@
+1 CHIL @I0409@
+1 CHIL @I0408@
+1 CHIL @I0146@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @F0201@ FAM
+1 HUSB @I0402@
+1 WIFE @I0403@
+1 CHIL @I0147@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @F0202@ FAM
+1 HUSB @I0404@
+1 WIFE @I0405@
+1 CHIL @I0401@
+1 CHAN
+2 DATE 30 SEP 2026
+0 @F0203@ FAM
+1 HUSB @I0406@
+1 WIFE @I0407@
+1 CHIL @I0403@
+1 CHAN
+2 DATE 30 SEP 2026
 0 TRLR
