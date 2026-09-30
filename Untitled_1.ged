@@ -5454,10 +5454,15 @@
 2 GIVN Michał
 2 SURN Mendycki
 1 SEX M
-1 DEAT
-2 DATE 1887
+1 BIRT
+2 DATE ABT 1847
 2 PLAC Drohobyczka
-2 SOUR Indeks zgonów Geneteka (Dubiecko, 1887, akt 15)
+1 DEAT
+2 DATE 4 APR 1887
+2 PLAC Huta
+2 SOUR Akt zgonu, parafia Dubiecko, 1887 r., akt nr 15 (dom nr 15)
+1 FACT rolnik
+2 TYPE Occupation
 1 FAMS @F0200@
 1 CHAN
 2 DATE 30 SEP 2026
