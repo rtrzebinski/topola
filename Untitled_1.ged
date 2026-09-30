@@ -5150,15 +5150,6 @@
 1 FAMS @F0054@
 1 CHAN
 2 DATE 30 SEP 2026
-0 @I0318@ INDI
-1 NAME Bartłomiej /Staniszewski/
-2 TYPE birth
-2 GIVN Bartłomiej
-2 SURN Staniszewski
-1 SEX M
-1 FAMS @F0121@
-1 CHAN
-2 DATE 30 SEP 2026
 0 @I0319@ INDI
 1 NAME Katarzyna /Hendzel/
 2 TYPE birth
@@ -5204,10 +5195,35 @@
 1 FAMS @F0123@
 1 CHAN
 2 DATE 30 SEP 2026
+0 @I0318@ INDI
+1 NAME Bartłomiej /Staniszewski/
+2 TYPE birth
+2 GIVN Bartłomiej
+2 SURN Staniszewski
+1 SEX M
+1 DEAT
+2 DATE 19 FEB 1833
+2 PLAC Drohobyczka
+2 SOUR Indeks aktu zgonu nr 17, sygn. 71/T. 7, str. 624
+1 FAMS @F0121@
+1 NOTE HIPOTEZA BADAWCZA (do weryfikacji ze skanami): Jedynymi potencjalnymi rodzicami w Drohobyczce są Andrzej Staniszewski (zm. 1813) i Magdalena z d. Stadnik (zm. 23.02.1823 jako wdowa). Warunek połączenia z ojcem w drzewie: potwierdzenie imion rodziców w skanie aktu ślubu Bartłomieja z 1809 r. (akt nr 5) LUB identyczność numeru domu z aktu zgonu Bartłomieja z numerem domu z aktów urodzeń dzieci Andrzeja i Magdaleny (1785-1798).
+1 CHAN
+2 DATE 30 SEP 2026
 0 @F0121@ FAM
 1 HUSB @I0318@
 1 WIFE @I0319@
+1 MARR
+2 DATE 1809
+2 PLAC Dubiecko
+2 SOUR Indeks aktu małżeństwa nr 5
 1 CHIL @I0316@
+1 CHIL @I0324@
+1 CHIL @I0325@
+1 CHIL @I0326@
+1 CHIL @I0327@
+1 CHIL @I0328@
+1 CHIL @I0329@
+1 CHIL @I0330@
 1 CHAN
 2 DATE 30 SEP 2026
 0 @F0122@ FAM
@@ -5310,4 +5326,112 @@
 1 CONC ego kalendarza jest 27 października 1884 roku. Zapis "15/27" nie oznacz
 1 CONC a wyboru ani niepewności, lecz precyzyjne wskazanie tego samego dnia w d
 1 CONC wóch różnych systemach rachuby czasu.
+0 @I0324@ INDI
+1 NAME Marcin /Staniszewski/
+2 TYPE birth
+2 GIVN Marcin
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1810
+2 PLAC Drohobyczka
+2 SOUR akt urodzenia nr 32
+1 DEAT
+2 DATE 1810
+2 PLAC Drohobyczka
+2 SOUR akt zgonu nr 27
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0325@ INDI
+1 NAME Jadwiga /Staniszewska/
+2 TYPE birth
+2 GIVN Jadwiga
+2 SURN Staniszewska
+1 SEX F
+1 BIRT
+2 DATE 1813
+2 PLAC Drohobyczka
+2 SOUR akt urodzenia nr 25
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0326@ INDI
+1 NAME Wojciech /Staniszewski/
+2 TYPE birth
+2 GIVN Wojciech
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1816
+2 PLAC Drohobyczka
+2 SOUR akt urodzenia nr 10
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0327@ INDI
+1 NAME Jan /Staniszewski/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1819
+2 PLAC Drohobyczka
+2 SOUR akt urodzenia nr 9
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0328@ INDI
+1 NAME Anna /Staniszewska/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Staniszewska
+1 SEX F
+1 BIRT
+2 DATE 1824
+2 PLAC Huta Drohobycka
+2 SOUR akt urodzenia nr 21
+1 DEAT
+2 DATE 1853
+2 PLAC Huta Drohobycka
+2 SOUR akt zgonu nr 87
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0329@ INDI
+1 NAME Szymon /Staniszewski/
+2 TYPE birth
+2 GIVN Szymon
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1826
+2 PLAC Huta Drohobycka
+2 SOUR akt urodzenia nr 28
+1 NOTE Zawarte małżeństwo: 1851 r. z Katarzyną Osiadły w Dubiecku
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+0 @I0330@ INDI
+1 NAME Maria /Staniszewska/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Staniszewska
+1 SEX F
+1 BIRT
+2 DATE 1829
+2 PLAC Drohobyczka
+2 SOUR akt urodzenia nr 25
+1 NOTE Zawarte małżeństwo: 1858 r. z Wawrzyńcem Jasiewiczem w Dubiecku
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
 0 TRLR
