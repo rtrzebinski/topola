@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 4 OCT 2026
-2 TIME 11:18:32
+2 TIME 11:21:51
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2026 .
@@ -1776,15 +1776,14 @@
 2 DATE 5 MAR 2023
 3 TIME 16:27:03
 0 @I0119@ INDI
-1 NAME Marianna /Jaworska/
+1 NAME Marianna //
 2 TYPE birth
 2 GIVN Marianna
-2 SURN Jaworska
 1 SEX F
 1 FAMS @F0036@
 1 CHAN
-2 DATE 5 MAR 2023
-3 TIME 16:27:03
+2 DATE 4 OCT 2026
+3 TIME 11:21:29
 0 @I0120@ INDI
 1 NAME Piotr /Łagutin/
 2 TYPE birth
