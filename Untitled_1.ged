@@ -387,6 +387,9 @@
 2 TYPE birth
 2 GIVN Jadwiga
 2 SURN Łagutin
+1 NAME Jadwiga /Puchalska/
+2 TYPE married
+2 SURN Puchalska
 1 SEX F
 1 BIRT
 2 DATE 23 JAN 1931
@@ -436,6 +439,8 @@
 1 DEAT
 2 DATE 11 MAY 1940
 2 PLAC Częstochowa
+1 FAMC @F0126@
+2 PEDI birth
 1 FAMS @F0009@
 1 CHAN
 2 DATE 7 MAR 2023
@@ -675,10 +680,10 @@
 2 DATE 5 MAR 2023
 3 TIME 16:42:40
 0 @I0040@ INDI
-1 NAME Maria /Łagutin/
+1 NAME Maria /Ludek/
 2 TYPE birth
 2 GIVN Maria
-2 SURN Łagutin
+2 SURN Ludek
 1 SEX F
 1 FAMS @F0014@
 1 CHAN
@@ -1776,9 +1781,10 @@
 2 DATE 5 MAR 2023
 3 TIME 16:27:03
 0 @I0119@ INDI
-1 NAME Marianna //
+1 NAME Marianna /Olszewska/
 2 TYPE birth
 2 GIVN Marianna
+2 SURN Olszewska
 1 SEX F
 1 FAMS @F0036@
 1 CHAN
@@ -5806,4 +5812,31 @@
 1 CONC wóch różnych systemach rachuby czasu.
 0 @N0016@ NOTE Zawarte małżeństwo: 1851 r. z Katarzyną Osiadły w Dubiecku
 0 @N0017@ NOTE Zawarte małżeństwo: 1858 r. z Wawrzyńcem Jasiewiczem w Dubiecku
+0 @I0415@ INDI
+1 NAME Michał /Łagutin/
+2 TYPE birth
+2 GIVN Michał
+2 SURN Łagutin
+1 SEX M
+1 FAMS @F0126@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 12:00:00
+0 @I0416@ INDI
+1 NAME Marianna /Kucel/
+2 TYPE birth
+2 GIVN Marianna
+2 SURN Kucel
+1 SEX F
+1 FAMS @F0126@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 12:00:00
+0 @F0126@ FAM
+1 HUSB @I0415@
+1 WIFE @I0416@
+1 CHIL @I0023@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 12:00:00
 0 TRLR
