@@ -1,9 +1,9 @@
 0 HEAD
 1 SOUR Gramps
-2 VERS 5.2.3
+2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 29 SEP 2026
-2 TIME 10:17:39
+1 DATE 4 OCT 2026
+2 TIME 11:18:32
 1 SUBM @SUBM@
 1 FILE /Users/robert/projects/topola/Untitled_1.ged
 1 COPR Copyright (c) 2026 .
@@ -173,7 +173,7 @@
 1 BIRT
 2 DATE 15 AUG 1909
 2 PLAC Huta
-2 SOUR Akt urodzenia, parafia Dubiecko, 1909 r., akt nr 59
+2 SOUR @S0020@
 1 DEAT
 2 DATE 10 JUL 1989
 1 FAMC @F0053@
@@ -181,6 +181,7 @@
 1 FAMS @F0004@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0009@ INDI
 1 NAME Natalia /Trzebińska/
 2 TYPE birth
@@ -382,10 +383,10 @@
 2 DATE 5 MAR 2023
 3 TIME 16:35:28
 0 @I0021@ INDI
-1 NAME Jadwiga /Puchalska/
+1 NAME Jadwiga /Łagutin/
 2 TYPE birth
 2 GIVN Jadwiga
-2 SURN Puchalska
+2 SURN Łagutin
 1 SEX F
 1 BIRT
 2 DATE 23 JAN 1931
@@ -400,13 +401,13 @@
 2 PEDI birth
 1 FAMS @F0008@
 1 CHAN
-2 DATE 4 MAR 2023
-3 TIME 18:17:50
+2 DATE 4 OCT 2026
+3 TIME 11:17:38
 0 @I0022@ INDI
-1 NAME Florentyna /Łagutin/
+1 NAME Florentyna /Jaworska/
 2 TYPE birth
 2 GIVN Florentyna
-2 SURN Łagutin
+2 SURN Jaworska
 1 SEX F
 1 BIRT
 2 DATE 14 AUG 1914
@@ -421,8 +422,8 @@
 2 PEDI birth
 1 FAMS @F0009@
 1 CHAN
-2 DATE 5 MAR 2023
-3 TIME 16:27:03
+2 DATE 4 OCT 2026
+3 TIME 11:18:00
 0 @I0023@ INDI
 1 NAME Piotr /Łagutin/
 2 TYPE birth
@@ -486,6 +487,7 @@
 1 FAMS @F0010@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0027@ INDI
 1 NAME Stanisław /Polakiewicz/
 2 TYPE birth
@@ -2098,8 +2100,7 @@
 1 SEX M
 1 DEAT
 2 DATE AFT 19 FEB 1860
-1 FACT tkacz
-2 TYPE Occupation
+1 OCCU tkacz
 1 FAMS @F0112@
 1 CHAN
 2 DATE 22 DEC 2025
@@ -2125,6 +2126,7 @@
 1 FAMS @F0010@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0146@ INDI
 1 NAME Karol /Mendycki/
 2 TYPE birth
@@ -2134,13 +2136,13 @@
 1 BIRT
 2 DATE 15 AUG 1875
 2 PLAC Huta
-1 FACT rolnik
-2 TYPE Occupation
+1 OCCU rolnik
 1 FAMC @F0200@
 2 PEDI birth
 1 FAMS @F0053@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0147@ INDI
 1 NAME Anna /Żurawska/
 2 TYPE birth
@@ -2155,6 +2157,7 @@
 1 FAMS @F0053@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0148@ INDI
 1 NAME Jadwiga /Tomczak/
 2 TYPE birth
@@ -2170,9 +2173,7 @@
 2 GIVN Ignacy
 2 SURN Matusiak
 1 SEX M
-1 FACT Gospodarz
-2 TYPE Occupation
-2 NOTE @N0011@
+1 OCCU Gospodarz
 1 FAMS @F0107@
 1 CHAN
 2 DATE 21 DEC 2025
@@ -2285,7 +2286,7 @@
 1 BIRT
 2 DATE 4 SEP 1903
 2 PLAC Marianki
-2 SOUR Akt urodzenia, parafia Wieniec, 1903 r., akt nr 102
+2 SOUR @S0021@
 1 DEAT
 2 DATE 26 OCT 1935
 1 FAMC @F0109@
@@ -2293,6 +2294,7 @@
 1 FAMS @F0038@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0158@ INDI
 1 NAME Wacław /Trzebiński/
 2 TYPE birth
@@ -2324,8 +2326,7 @@
 2 DATE 8 MAY 1861
 2 PLAC Rdutów
 2 NOTE @N0003@
-1 FACT służący
-2 TYPE Occupation
+1 OCCU służący
 1 FAMC @F0114@
 2 PEDI birth
 1 FAMS @F0055@
@@ -2344,9 +2345,7 @@
 2 NOTE @N0005@
 1 DEAT
 2 DATE AFT 27 OCT 1884
-1 FACT tkacz (w 1860 i 1861) , później służący (w 1884)
-2 TYPE Occupation
-2 NOTE @N0006@
+1 OCCU tkacz (w 1860 i 1861) , później służący (w 1884)
 1 FAMC @F0112@
 2 PEDI birth
 1 FAMS @F0114@
@@ -4080,6 +4079,7 @@
 1 FAMS @F0110@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0306@ INDI
 1 NAME Franciszka /Gapińska/
 2 TYPE birth
@@ -4091,6 +4091,7 @@
 1 FAMS @F0109@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0307@ INDI
 1 NAME Agnieszka /Podolska/
 2 TYPE birth
@@ -4104,6 +4105,7 @@
 1 FAMS @F0110@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @I0308@ INDI
 1 NAME Jadwiga /Dorożała/
 2 TYPE birth
@@ -4141,8 +4143,7 @@
 1 SEX M
 1 DEAT
 2 DATE BEF 19 FEB 1860
-1 FACT gospodarz
-2 TYPE Occupation
+1 OCCU gospodarz
 1 FAMS @F0113@
 1 CHAN
 2 DATE 23 DEC 2025
@@ -4180,10 +4181,11 @@
 2 DATE 22 DEC 2025
 3 TIME 09:10:03
 0 @I0314@ INDI
-1 NAME Patrycja /Siejka/
+1 NAME Patrycja /Siejka Siejka/
 2 TYPE birth
 2 GIVN Patrycja
 2 SPFX Siejka
+2 SURN Siejka
 1 SEX F
 1 BIRT
 2 DATE 17 JUL 2001
@@ -4209,6 +4211,393 @@
 1 CHAN
 2 DATE 29 SEP 2026
 3 TIME 10:11:07
+0 @I0316@ INDI
+1 NAME Tomasz /Staniszewski/
+2 TYPE birth
+2 GIVN Tomasz
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1821
+2 PLAC Drohobyczka
+1 FAMC @F0121@
+2 PEDI birth
+1 FAMS @F0054@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0317@ INDI
+1 NAME Zofia /Daraż/
+2 TYPE birth
+2 GIVN Zofia
+2 SURN Daraż
+1 SEX F
+1 FAMC @F0122@
+2 PEDI birth
+1 FAMS @F0054@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0318@ INDI
+1 NAME Bartłomiej /Staniszewski/
+2 TYPE birth
+2 GIVN Bartłomiej
+2 SURN Staniszewski
+1 SEX M
+1 DEAT
+2 DATE 19 FEB 1833
+2 PLAC Drohobyczka
+2 SOUR @S0025@
+1 FAMS @F0121@
+1 NOTE @N0000@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0319@ INDI
+1 NAME Katarzyna /Hendzel/
+2 TYPE birth
+2 GIVN Katarzyna
+2 SURN Hendzel
+1 SEX F
+1 FAMS @F0121@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0320@ INDI
+1 NAME Jan /Daraż/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Daraż
+1 SEX M
+1 FAMS @F0122@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0321@ INDI
+1 NAME Barbara /Pinkowicz/
+2 TYPE birth
+2 GIVN Barbara
+2 SURN Pinkowicz
+1 SEX F
+1 FAMS @F0122@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0322@ INDI
+1 NAME Józef /Żurawski/
+2 TYPE birth
+2 GIVN Józef
+2 SURN Żurawski
+1 SEX M
+1 FAMS @F0123@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0323@ INDI
+1 NAME Katarzyna /Pichura/
+2 TYPE birth
+2 GIVN Katarzyna
+2 SURN Pichura
+1 SEX F
+1 FAMS @F0123@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0324@ INDI
+1 NAME Marcin /Staniszewski/
+2 TYPE birth
+2 GIVN Marcin
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1810
+2 PLAC Drohobyczka
+2 SOUR @S0027@
+1 DEAT
+2 DATE 1810
+2 PLAC Drohobyczka
+2 SOUR @S0028@
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0325@ INDI
+1 NAME Jadwiga /Staniszewska/
+2 TYPE birth
+2 GIVN Jadwiga
+2 SURN Staniszewska
+1 SEX F
+1 BIRT
+2 DATE 1813
+2 PLAC Drohobyczka
+2 SOUR @S0029@
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0326@ INDI
+1 NAME Wojciech /Staniszewski/
+2 TYPE birth
+2 GIVN Wojciech
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1816
+2 PLAC Drohobyczka
+2 SOUR @S0030@
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0327@ INDI
+1 NAME Jan /Staniszewski/
+2 TYPE birth
+2 GIVN Jan
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1819
+2 PLAC Drohobyczka
+2 SOUR @S0031@
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0328@ INDI
+1 NAME Anna /Staniszewska/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Staniszewska
+1 SEX F
+1 BIRT
+2 DATE 1824
+2 PLAC Huta Drohobycka
+2 SOUR @S0032@
+1 DEAT
+2 DATE 1853
+2 PLAC Huta Drohobycka
+2 SOUR @S0033@
+1 FAMC @F0121@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0329@ INDI
+1 NAME Szymon /Staniszewski/
+2 TYPE birth
+2 GIVN Szymon
+2 SURN Staniszewski
+1 SEX M
+1 BIRT
+2 DATE 1826
+2 PLAC Huta Drohobycka
+2 SOUR @S0034@
+1 FAMC @F0121@
+2 PEDI birth
+1 NOTE @N0016@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0330@ INDI
+1 NAME Maria /Staniszewska/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Staniszewska
+1 SEX F
+1 BIRT
+2 DATE 1829
+2 PLAC Drohobyczka
+2 SOUR @S0029@
+1 FAMC @F0121@
+2 PEDI birth
+1 NOTE @N0017@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0400@ INDI
+1 NAME Michał /Mendycki/
+2 TYPE birth
+2 GIVN Michał
+2 SURN Mendycki
+1 SEX M
+1 BIRT
+2 DATE ABT 1847
+2 PLAC Drohobyczka
+1 DEAT
+2 DATE 4 APR 1887
+2 PLAC Huta
+2 SOUR @S0035@
+1 OCCU rolnik
+1 FAMS @F0200@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0401@ INDI
+1 NAME Katarzyna /Kucel/
+2 TYPE birth
+2 GIVN Katarzyna
+2 SURN Kucel
+1 SEX F
+1 FAMC @F0202@
+2 PEDI birth
+1 FAMS @F0200@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0402@ INDI
+1 NAME Marcin /Żurawski/
+2 TYPE birth
+2 GIVN Marcin
+2 SURN Żurawski
+1 SEX M
+1 OCCU rolnik
+1 FAMS @F0201@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0403@ INDI
+1 NAME Katarzyna /Brzezowska/
+2 TYPE birth
+2 GIVN Katarzyna
+2 SURN Brzezowska
+1 SEX F
+1 FAMC @F0203@
+2 PEDI birth
+1 FAMS @F0201@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0404@ INDI
+1 NAME Józef /Kucel/
+2 TYPE birth
+2 GIVN Józef
+2 SURN Kucel
+1 SEX M
+1 FAMS @F0202@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0405@ INDI
+1 NAME Katarzyna //
+2 TYPE birth
+2 GIVN Katarzyna
+1 SEX F
+1 FAMS @F0202@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0406@ INDI
+1 NAME Antoni /Brzezowski/
+2 TYPE birth
+2 GIVN Antoni
+2 SURN Brzezowski
+1 SEX M
+1 FAMS @F0203@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0407@ INDI
+1 NAME Magdalena /Dudziak/
+2 TYPE birth
+2 GIVN Magdalena
+2 SURN Dudziak
+1 SEX F
+1 FAMS @F0203@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0408@ INDI
+1 NAME Marianna /Mendycka/
+2 TYPE birth
+2 GIVN Marianna
+2 SURN Mendycka
+1 SEX F
+1 BIRT
+2 DATE 1873
+2 PLAC Drohobyczka
+2 SOUR @S0036@
+1 FAMC @F0200@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0409@ INDI
+1 NAME NN /Mendycka/
+2 TYPE birth
+2 GIVN NN
+2 SURN Mendycka
+1 SEX F
+1 BIRT
+2 DATE 1872
+2 PLAC Drohobyczka
+2 SOUR @S0037@
+1 FAMC @F0200@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0410@ INDI
+1 NAME Franciszka /Fornalewicz/
+2 TYPE birth
+2 GIVN Franciszka
+2 SURN Fornalewicz
+1 SEX F
+1 BIRT
+2 DATE 13 MAR 1910
+2 PLAC Marianki
+2 SOUR @S0038@
+1 DEAT
+2 DATE 1986
+2 PLAC Włocławek
+1 FAMC @F0110@
+2 PEDI birth
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0411@ INDI
+1 NAME Józef /Fornalewicz/
+2 TYPE birth
+2 GIVN Józef
+2 SURN Fornalewicz
+1 SEX M
+1 FAMS @F0124@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0412@ INDI
+1 NAME Anna /Pawłowska/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Pawłowska
+1 SEX F
+1 FAMS @F0124@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0413@ INDI
+1 NAME Stanisław /Podolski/
+2 TYPE birth
+2 GIVN Stanisław
+2 SURN Podolski
+1 SEX M
+1 FAMS @F0125@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @I0414@ INDI
+1 NAME Elżbieta /Borowicka/
+2 TYPE birth
+2 GIVN Elżbieta
+2 SURN Borowicka
+1 SEX F
+1 FAMS @F0125@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -4316,6 +4705,7 @@
 1 CHIL @I0151@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @F0011@ FAM
 1 HUSB @I0027@
 1 WIFE @I0024@
@@ -4636,7 +5026,7 @@
 1 MARR
 2 DATE 22 SEP 1898
 2 PLAC Dubiecko
-2 SOUR Akt urodzenia Agnieszki Mendyckiej, adnotacja "copulati"
+2 SOUR @S0022@
 1 CHIL @I0008@
 1 CHIL @I0152@
 1 CHIL @I0153@
@@ -4645,6 +5035,7 @@
 1 CHIL @I0156@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @F0054@ FAM
 1 HUSB @I0316@
 1 WIFE @I0317@
@@ -4654,6 +5045,7 @@
 1 CHIL @I0026@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @F0055@ FAM
 1 HUSB @I0159@
 1 WIFE @I0255@
@@ -5078,21 +5470,23 @@
 1 MARR
 2 DATE 1879
 2 PLAC Kruszyn
-2 SOUR Akt małżeństwa nr 22, parafia Kruszyn
+2 SOUR @S0023@
 1 CHIL @I0157@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @F0110@ FAM
 1 HUSB @I0305@
 1 WIFE @I0307@
 1 MARR
 2 DATE 1907
 2 PLAC Włocławek św. Jana Chrzciciela
-2 SOUR Akt małżeństwa nr 184, parafia Włocławek św. Jana Chrzciciela
-1 CHIL @I0410@
+2 SOUR @S0024@
 1 CHIL @I0006@
+1 CHIL @I0410@
 1 CHAN
-2 DATE 30 SEP 2026
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
 0 @F0112@ FAM
 1 HUSB @I0143@
 1 WIFE @I0309@
@@ -5141,103 +5535,17 @@
 1 MARR
 2 DATE 15 MAY 2026
 2 PLAC Szczecin
-2 ADDR
-3 CITY Szczecin
 1 CHIL @I0315@
 1 CHAN
 2 DATE 29 SEP 2026
 3 TIME 10:09:50
-0 @I0316@ INDI
-1 NAME Tomasz /Staniszewski/
-2 TYPE birth
-2 GIVN Tomasz
-2 SURN Staniszewski
-1 SEX M
-1 BIRT
-2 DATE 1821
-2 PLAC Drohobyczka
-1 FAMC @F0121@
-2 PEDI birth
-1 FAMS @F0054@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0317@ INDI
-1 NAME Zofia /Daraż/
-2 TYPE birth
-2 GIVN Zofia
-2 SURN Daraż
-1 SEX F
-1 FAMC @F0122@
-2 PEDI birth
-1 FAMS @F0054@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0319@ INDI
-1 NAME Katarzyna /Hendzel/
-2 TYPE birth
-2 GIVN Katarzyna
-2 SURN Hendzel
-1 SEX F
-1 FAMS @F0121@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0320@ INDI
-1 NAME Jan /Daraż/
-2 TYPE birth
-2 GIVN Jan
-2 SURN Daraż
-1 SEX M
-1 FAMS @F0122@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0321@ INDI
-1 NAME Barbara /Pinkowicz/
-2 TYPE birth
-2 GIVN Barbara
-2 SURN Pinkowicz
-1 SEX F
-1 FAMS @F0122@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0322@ INDI
-1 NAME Józef /Żurawski/
-2 TYPE birth
-2 GIVN Józef
-2 SURN Żurawski
-1 SEX M
-1 FAMS @F0123@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0323@ INDI
-1 NAME Katarzyna /Pichura/
-2 TYPE birth
-2 GIVN Katarzyna
-2 SURN Pichura
-1 SEX F
-1 FAMS @F0123@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0318@ INDI
-1 NAME Bartłomiej /Staniszewski/
-2 TYPE birth
-2 GIVN Bartłomiej
-2 SURN Staniszewski
-1 SEX M
-1 DEAT
-2 DATE 19 FEB 1833
-2 PLAC Drohobyczka
-2 SOUR Indeks aktu zgonu nr 17, sygn. 71/T. 7, str. 624
-1 FAMS @F0121@
-1 NOTE HIPOTEZA BADAWCZA (do weryfikacji ze skanami): Jedynymi potencjalnymi rodzicami w Drohobyczce są Andrzej Staniszewski (zm. 1813) i Magdalena z d. Stadnik (zm. 23.02.1823 jako wdowa). Warunek połączenia z ojcem w drzewie: potwierdzenie imion rodziców w skanie aktu ślubu Bartłomieja z 1809 r. (akt nr 5) LUB identyczność numeru domu z aktu zgonu Bartłomieja z numerem domu z aktów urodzeń dzieci Andrzeja i Magdaleny (1785-1798).
-1 CHAN
-2 DATE 30 SEP 2026
 0 @F0121@ FAM
 1 HUSB @I0318@
 1 WIFE @I0319@
 1 MARR
 2 DATE 1809
 2 PLAC Dubiecko
-2 SOUR Indeks aktu małżeństwa nr 5
+2 SOUR @S0026@
 1 CHIL @I0316@
 1 CHIL @I0324@
 1 CHIL @I0325@
@@ -5247,19 +5555,168 @@
 1 CHIL @I0329@
 1 CHIL @I0330@
 1 CHAN
-2 DATE 30 SEP 2026
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
 0 @F0122@ FAM
 1 HUSB @I0320@
 1 WIFE @I0321@
 1 CHIL @I0317@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
 0 @F0123@ FAM
 1 HUSB @I0322@
 1 WIFE @I0323@
 1 CHIL @I0145@
 1 CHAN
 2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @F0124@ FAM
+1 HUSB @I0411@
+1 WIFE @I0412@
+1 CHIL @I0305@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @F0125@ FAM
+1 HUSB @I0413@
+1 WIFE @I0414@
+1 CHIL @I0307@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @F0200@ FAM
+1 HUSB @I0400@
+1 WIFE @I0401@
+1 CHIL @I0409@
+1 CHIL @I0408@
+1 CHIL @I0146@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @F0201@ FAM
+1 HUSB @I0402@
+1 WIFE @I0403@
+1 CHIL @I0147@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @F0202@ FAM
+1 HUSB @I0404@
+1 WIFE @I0405@
+1 CHIL @I0401@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @F0203@ FAM
+1 HUSB @I0406@
+1 WIFE @I0407@
+1 CHIL @I0403@
+1 CHAN
+2 DATE 30 SEP 2026
+3 TIME 00:00:00
+0 @S0020@ SOUR
+1 TITL Akt urodzenia, parafia Dubiecko, 1909 r., akt nr 59
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0021@ SOUR
+1 TITL Akt urodzenia, parafia Wieniec, 1903 r., akt nr 102
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0022@ SOUR
+1 TITL Akt urodzenia Agnieszki Mendyckiej, adnotacja "copulati"
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0023@ SOUR
+1 TITL Akt małżeństwa nr 22, parafia Kruszyn
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0024@ SOUR
+1 TITL Akt małżeństwa nr 184, parafia Włocławek św. Jana Chrzciciela
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0025@ SOUR
+1 TITL Indeks aktu zgonu nr 17, sygn. 71/T. 7, str. 624
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0026@ SOUR
+1 TITL Indeks aktu małżeństwa nr 5
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0027@ SOUR
+1 TITL akt urodzenia nr 32
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0028@ SOUR
+1 TITL akt zgonu nr 27
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0029@ SOUR
+1 TITL akt urodzenia nr 25
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0030@ SOUR
+1 TITL akt urodzenia nr 10
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0031@ SOUR
+1 TITL akt urodzenia nr 9
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0032@ SOUR
+1 TITL akt urodzenia nr 21
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0033@ SOUR
+1 TITL akt zgonu nr 87
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0034@ SOUR
+1 TITL akt urodzenia nr 28
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0035@ SOUR
+1 TITL Akt zgonu, parafia Dubiecko, 1887 r., akt nr 15 (dom nr 15)
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0036@ SOUR
+1 TITL Indeks urodzeń Geneteka (Dubiecko, 1873, akt 38)
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0037@ SOUR
+1 TITL Indeks urodzeń Geneteka (Dubiecko, 1872, akt 39)
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @S0038@ SOUR
+1 TITL Akt urodzenia, parafia Wieniec, 1910 r., akt nr 38
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 11:17:07
+0 @N0000@ NOTE HIPOTEZA BADAWCZA (do weryfikacji ze skanami): Jedynymi potencjalny
+1 CONC mi rodzicami w Drohobyczce są Andrzej Staniszewski (zm. 1813) i Magdalen
+1 CONC a z d. Stadnik (zm. 23.02.1823 jako wdowa). Warunek połączenia z ojce
+1 CONC m w drzewie: potwierdzenie imion rodziców w skanie aktu ślubu Bartłomiej
+1 CONC a z 1809 r. (akt nr 5) LUB identyczność numeru domu z aktu zgonu Bartłom
+1 CONC ieja z numerem domu z aktów urodzeń dzieci Andrzeja i Magdaleny (1785-17
+1 CONC 98).
 0 @N0001@ NOTE Data urodzenia i śnierci orientacyjne, na podstawie nagrania rozmow
 1 CONC y z jej siostrą, Bernadetą.
 0 @N0002@ NOTE Żył 9 miesięcy.
@@ -5273,7 +5730,7 @@
 0 @N0004@ NOTE W aktach zapisywane jako Boryszyny
 0 @N0005@ NOTE Urodzenie: ok. 1834
 1 CONT 
-1 CONT Średnia z dwóch rozbieżnych dokumentów (1833 i 1835). 
+1 CONT Średnia z dwóch rozbieżnych dokumentów (1833 i 1835).
 0 @N0006@ NOTE W akcie z 1861 roku jest wpisany jako "Komornik w Boryszynach zamie
 1 CONC szkały". Oznacza to chłopa bezrolnego, wynajmującego izbę.
 0 @N0007@ NOTE Dlaczego Matusiak?
@@ -5348,317 +5805,6 @@
 1 CONC ego kalendarza jest 27 października 1884 roku. Zapis "15/27" nie oznacz
 1 CONC a wyboru ani niepewności, lecz precyzyjne wskazanie tego samego dnia w d
 1 CONC wóch różnych systemach rachuby czasu.
-0 @I0324@ INDI
-1 NAME Marcin /Staniszewski/
-2 TYPE birth
-2 GIVN Marcin
-2 SURN Staniszewski
-1 SEX M
-1 BIRT
-2 DATE 1810
-2 PLAC Drohobyczka
-2 SOUR akt urodzenia nr 32
-1 DEAT
-2 DATE 1810
-2 PLAC Drohobyczka
-2 SOUR akt zgonu nr 27
-1 FAMC @F0121@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0325@ INDI
-1 NAME Jadwiga /Staniszewska/
-2 TYPE birth
-2 GIVN Jadwiga
-2 SURN Staniszewska
-1 SEX F
-1 BIRT
-2 DATE 1813
-2 PLAC Drohobyczka
-2 SOUR akt urodzenia nr 25
-1 FAMC @F0121@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0326@ INDI
-1 NAME Wojciech /Staniszewski/
-2 TYPE birth
-2 GIVN Wojciech
-2 SURN Staniszewski
-1 SEX M
-1 BIRT
-2 DATE 1816
-2 PLAC Drohobyczka
-2 SOUR akt urodzenia nr 10
-1 FAMC @F0121@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0327@ INDI
-1 NAME Jan /Staniszewski/
-2 TYPE birth
-2 GIVN Jan
-2 SURN Staniszewski
-1 SEX M
-1 BIRT
-2 DATE 1819
-2 PLAC Drohobyczka
-2 SOUR akt urodzenia nr 9
-1 FAMC @F0121@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0328@ INDI
-1 NAME Anna /Staniszewska/
-2 TYPE birth
-2 GIVN Anna
-2 SURN Staniszewska
-1 SEX F
-1 BIRT
-2 DATE 1824
-2 PLAC Huta Drohobycka
-2 SOUR akt urodzenia nr 21
-1 DEAT
-2 DATE 1853
-2 PLAC Huta Drohobycka
-2 SOUR akt zgonu nr 87
-1 FAMC @F0121@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0329@ INDI
-1 NAME Szymon /Staniszewski/
-2 TYPE birth
-2 GIVN Szymon
-2 SURN Staniszewski
-1 SEX M
-1 BIRT
-2 DATE 1826
-2 PLAC Huta Drohobycka
-2 SOUR akt urodzenia nr 28
-1 NOTE Zawarte małżeństwo: 1851 r. z Katarzyną Osiadły w Dubiecku
-1 FAMC @F0121@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0330@ INDI
-1 NAME Maria /Staniszewska/
-2 TYPE birth
-2 GIVN Maria
-2 SURN Staniszewska
-1 SEX F
-1 BIRT
-2 DATE 1829
-2 PLAC Drohobyczka
-2 SOUR akt urodzenia nr 25
-1 NOTE Zawarte małżeństwo: 1858 r. z Wawrzyńcem Jasiewiczem w Dubiecku
-1 FAMC @F0121@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0400@ INDI
-1 NAME Michał /Mendycki/
-2 TYPE birth
-2 GIVN Michał
-2 SURN Mendycki
-1 SEX M
-1 BIRT
-2 DATE ABT 1847
-2 PLAC Drohobyczka
-1 DEAT
-2 DATE 4 APR 1887
-2 PLAC Huta
-2 SOUR Akt zgonu, parafia Dubiecko, 1887 r., akt nr 15 (dom nr 15)
-1 FACT rolnik
-2 TYPE Occupation
-1 FAMS @F0200@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0401@ INDI
-1 NAME Katarzyna /Kucel/
-2 TYPE birth
-2 GIVN Katarzyna
-2 SURN Kucel
-1 SEX F
-1 FAMC @F0202@
-2 PEDI birth
-1 FAMS @F0200@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0402@ INDI
-1 NAME Marcin /Żurawski/
-2 TYPE birth
-2 GIVN Marcin
-2 SURN Żurawski
-1 SEX M
-1 FACT rolnik
-2 TYPE Occupation
-1 FAMS @F0201@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0403@ INDI
-1 NAME Katarzyna /Brzezowska/
-2 TYPE birth
-2 GIVN Katarzyna
-2 SURN Brzezowska
-1 SEX F
-1 FAMC @F0203@
-2 PEDI birth
-1 FAMS @F0201@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0404@ INDI
-1 NAME Józef /Kucel/
-2 TYPE birth
-2 GIVN Józef
-2 SURN Kucel
-1 SEX M
-1 FAMS @F0202@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0405@ INDI
-1 NAME Katarzyna //
-2 TYPE birth
-2 GIVN Katarzyna
-1 SEX F
-1 FAMS @F0202@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0406@ INDI
-1 NAME Antoni /Brzezowski/
-2 TYPE birth
-2 GIVN Antoni
-2 SURN Brzezowski
-1 SEX M
-1 FAMS @F0203@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0407@ INDI
-1 NAME Magdalena /Dudziak/
-2 TYPE birth
-2 GIVN Magdalena
-2 SURN Dudziak
-1 SEX F
-1 FAMS @F0203@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0408@ INDI
-1 NAME Marianna /Mendycka/
-2 TYPE birth
-2 GIVN Marianna
-2 SURN Mendycka
-1 SEX F
-1 BIRT
-2 DATE 1873
-2 PLAC Drohobyczka
-2 SOUR Indeks urodzeń Geneteka (Dubiecko, 1873, akt 38)
-1 FAMC @F0200@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0409@ INDI
-1 NAME NN /Mendycka/
-2 TYPE birth
-2 GIVN NN
-2 SURN Mendycka
-1 SEX F
-1 BIRT
-2 DATE 1872
-2 PLAC Drohobyczka
-2 SOUR Indeks urodzeń Geneteka (Dubiecko, 1872, akt 39)
-1 FAMC @F0200@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @F0200@ FAM
-1 HUSB @I0400@
-1 WIFE @I0401@
-1 CHIL @I0409@
-1 CHIL @I0408@
-1 CHIL @I0146@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @F0201@ FAM
-1 HUSB @I0402@
-1 WIFE @I0403@
-1 CHIL @I0147@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @F0202@ FAM
-1 HUSB @I0404@
-1 WIFE @I0405@
-1 CHIL @I0401@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @F0203@ FAM
-1 HUSB @I0406@
-1 WIFE @I0407@
-1 CHIL @I0403@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0410@ INDI
-1 NAME Franciszka /Fornalewicz/
-2 TYPE birth
-2 GIVN Franciszka
-2 SURN Fornalewicz
-1 SEX F
-1 BIRT
-2 DATE 13 MAR 1910
-2 PLAC Marianki
-2 SOUR Akt urodzenia, parafia Wieniec, 1910 r., akt nr 38
-1 DEAT
-2 DATE 1986
-2 PLAC Włocławek
-1 FAMC @F0110@
-2 PEDI birth
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0411@ INDI
-1 NAME Józef /Fornalewicz/
-2 TYPE birth
-2 GIVN Józef
-2 SURN Fornalewicz
-1 SEX M
-1 FAMS @F0124@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0412@ INDI
-1 NAME Anna /Pawłowska/
-2 TYPE birth
-2 GIVN Anna
-2 SURN Pawłowska
-1 SEX F
-1 FAMS @F0124@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @F0124@ FAM
-1 HUSB @I0411@
-1 WIFE @I0412@
-1 CHIL @I0305@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0413@ INDI
-1 NAME Stanisław /Podolski/
-2 TYPE birth
-2 GIVN Stanisław
-2 SURN Podolski
-1 SEX M
-1 FAMS @F0125@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @I0414@ INDI
-1 NAME Elżbieta /Borowicka/
-2 TYPE birth
-2 GIVN Elżbieta
-2 SURN Borowicka
-1 SEX F
-1 FAMS @F0125@
-1 CHAN
-2 DATE 30 SEP 2026
-0 @F0125@ FAM
-1 HUSB @I0413@
-1 WIFE @I0414@
-1 CHIL @I0307@
-1 CHAN
-2 DATE 30 SEP 2026
+0 @N0016@ NOTE Zawarte małżeństwo: 1851 r. z Katarzyną Osiadły w Dubiecku
+0 @N0017@ NOTE Zawarte małżeństwo: 1858 r. z Wawrzyńcem Jasiewiczem w Dubiecku
 0 TRLR
